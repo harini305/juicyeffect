@@ -1,0 +1,252 @@
+.page {
+  --accent-bg: var(--mist);
+}
+
+/* ---------------------------------------------------------------- hero */
+.heroBand {
+  position: relative;
+  overflow: hidden;
+  background: var(--mist);
+  border-bottom: 1px solid var(--line);
+}
+.heroBand::before {
+  content: '';
+  position: absolute;
+  right: -12vw;
+  top: -18vw;
+  width: 52vw;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 1.5px solid rgba(14, 127, 122, 0.18);
+  box-shadow: inset 0 0 0 5vw rgba(26, 193, 185, 0.06);
+  pointer-events: none;
+}
+.hero {
+  position: relative;
+  display: grid;
+  gap: 2rem;
+  padding-top: clamp(1.25rem, 2.5vw, 2rem);
+  padding-bottom: clamp(2.5rem, 4.5vw, 3.75rem);
+}
+.heroText {
+  display: grid;
+  gap: 1.1rem;
+  align-content: start;
+}
+.heroText :global(.eyebrow) {
+  margin-top: clamp(0.75rem, 2vw, 1.5rem);
+}
+.title {
+  max-width: 16ch;
+}
+.sub {
+  margin: 0;
+  max-width: 36rem;
+  font-size: var(--fs-h4);
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+.intro {
+  max-width: 36rem;
+  font-size: var(--fs-lede);
+  line-height: 1.6;
+}
+.intro p:last-child {
+  margin-bottom: 0;
+}
+.factsCard:empty {
+  display: none;
+}
+.factsCard {
+  max-width: 36rem;
+  margin-top: 0.4rem;
+  padding: 0.4rem 1.25rem;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 20px 44px -34px rgba(23, 23, 23, 0.4);
+}
+.factsCard dl {
+  border-top: 0 !important;
+}
+.factsCard dl > div:last-child {
+  border-bottom: 0 !important;
+}
+.heroMedia {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+  box-shadow: 0 30px 60px -40px rgba(23, 23, 23, 0.5);
+}
+.heroMedia img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.heroPhoto .heroMedia {
+  aspect-ratio: 4 / 5;
+  max-height: 72vh;
+  border-radius: 999px 999px 14px 14px;
+}
+.tile {
+  border-radius: 50%;
+  overflow: visible;
+  max-width: 460px;
+  justify-self: center;
+  width: 100%;
+  padding: 4%;
+  background: var(--white);
+  box-shadow: 0 0 0 1px var(--line), 0 30px 60px -40px rgba(23, 23, 23, 0.5);
+}
+.tile img {
+  object-fit: contain;
+  border-radius: 50%;
+}
+.heroVideo .heroMedia {
+  align-self: center;
+}
+
+@media (min-width: 1000px) {
+  .hero {
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+    gap: clamp(3rem, 5vw, 6rem);
+    align-items: center;
+  }
+}
+
+/* -------------------------------------------------------------- body */
+.body {
+  display: grid;
+  gap: 3rem;
+  padding-block: clamp(1.75rem, 3vw, 2.5rem) clamp(2rem, 3.5vw, 3rem);
+}
+.chapters {
+  min-width: 0;
+}
+@media (min-width: 1200px) {
+  .body {
+    grid-template-columns: minmax(0, 1fr) 290px;
+    gap: 3.5rem;
+  }
+}
+.chapter {
+  display: grid;
+  gap: 1.2rem;
+  padding-block: clamp(1.6rem, 2.8vw, 2.5rem);
+  border-top: 1px solid var(--line);
+}
+.chapter:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+.chapterHead {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+.num {
+  flex: none;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  color: var(--teal-deep);
+}
+.chapterTitle {
+  font-size: var(--fs-h3);
+  line-height: 1.25;
+  max-width: 22ch;
+}
+.chapterBody {
+  min-width: 0;
+}
+.chapterBody:global(.prose) {
+  max-width: 46rem;
+}
+.chapterBody > :global(figure:first-child) {
+  margin-top: 0;
+}
+
+@media (min-width: 1000px) {
+  .chapter {
+    grid-template-columns: minmax(0, 0.3fr) minmax(0, 1fr);
+    gap: 2.5rem;
+  }
+  .chapterHead {
+    position: sticky;
+    top: calc(var(--header-h) + 2rem);
+    align-self: start;
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+}
+
+/* Investment: a quiet tinted panel so prices are easy to find */
+.k_invest .chapterBody {
+  padding: clamp(1.4rem, 3vw, 2.6rem);
+  background: var(--mist);
+  border-left: 3px solid var(--teal);
+  max-width: none;
+}
+.k_invest .chapterBody > :global(p:first-child) {
+  font-size: 1.12rem;
+}
+
+/* Benefits / includes / who-for lists set in two columns on wide screens */
+@media (min-width: 760px) {
+  .k_benefits .chapterBody :global(ul),
+  .k_includes .chapterBody :global(ul),
+  .k_who .chapterBody :global(ul) {
+    columns: 2;
+    column-gap: 2.5rem;
+  }
+  .k_benefits .chapterBody :global(li),
+  .k_includes .chapterBody :global(li),
+  .k_who .chapterBody :global(li) {
+    break-inside: avoid;
+  }
+  .k_benefits .chapterBody,
+  .k_includes .chapterBody,
+  .k_who .chapterBody {
+    max-width: 52rem;
+  }
+}
+
+/* Packages: numbered sessions (h5 "1. …") become journey steps */
+.journey .chapterBody :global(h5) {
+  margin: 2.2rem 0 0.8rem;
+  padding-top: 1.2rem;
+  border-top: 2px solid var(--ink);
+  font-size: 1.12rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+.journey .chapterBody :global(h5:first-child) {
+  margin-top: 0;
+}
+
+/* Courses: modules read as a syllabus */
+.course .chapterBody :global(h5) {
+  margin: 1.8rem 0 0.6rem;
+  padding: 0.7rem 0 0.7rem 1rem;
+  border-left: 3px solid var(--teal);
+  background: var(--mist);
+  font-size: 1.02rem;
+  font-weight: 500;
+}
+
+/* Workshops: event poster feel for subtitle lines */
+.event .sub {
+  font-size: var(--fs-h4);
+  font-weight: 500;
+  color: var(--ink);
+}
+.event .sub:last-of-type {
+  display: inline-block;
+  justify-self: start;
+  padding: 0.35rem 0.9rem;
+  border: 1.5px solid var(--ink);
+  border-radius: 999px;
+  font-size: 0.9rem;
+}
+.chapter:last-child {
+  padding-bottom: 0;
+}

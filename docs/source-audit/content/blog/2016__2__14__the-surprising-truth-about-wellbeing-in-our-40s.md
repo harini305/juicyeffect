@@ -1,0 +1,36 @@
+# /blog/2016/2/14/the-surprising-truth-about-wellbeing-in-our-40s
+
+- **HTML <title>:** The surprising truth about wellbeing in our 40's — Energy Healing Centre Ubud, Bali | The Juicy Effect
+- **Meta description:**  At 40 years of age I was overweight, stressed, run-down and seemingly past my prime. A year later I was 15kg lighter, clear-minded and full of energy once more thanks to a few simple shifts in my habits.  Years later and all is still well. 
+- **OG image:** http://static1.squarespace.com/static/55cd8826e4b0af9801ddffe4/55d32fcce4b07a4744cd317c/56c008c5746fb9063bac56d9/1772330298255/?format=1500w
+- **Canonical:** https://www.thejuicyeffect.com/blog/2016/2/14/the-surprising-truth-about-wellbeing-in-our-40s
+- **Collection:** title="Blog" navTitle="Blog" type=blog-side-by-side
+- **SEO (collection):** title="None" hidden=False
+
+**Post title:** The surprising truth about wellbeing in our 40's
+**Published:** 2019-07-20  |  **Author:** The Juicy Effect  |  **Categories:** ['Personal']  |  **Tags:** ['The Juicy Effect', 'synergistic wellbeing', 'forties', 'entrepreneur', 'wellbeing at work', 'jason buchanan']
+**Featured image:** https://images.squarespace-cdn.com/content/v1/55cd8826e4b0af9801ddffe4/1455426307053-6YL57J6MO4REN3P0LI0V/image-asset.jpeg
+**Excerpt:** At 40 years of age I was overweight, stressed, run-down and seemingly past my prime. A year later I was 15kg lighter, clear-minded and full of energy once more thanks to a few simple shifts in my habits.  Years later and all is still well.
+
+I am just a regular guy. I grew up in the south-western suburbs of Brisbane as part of a small family that was committed to a diet of meat and three vegetables.  We cooked in fats and oils, and margarine was never in short supply.
+In my teens I was barely above 60kg and pretty thin for someone just shy of 6 foot tall.    In my early twenties I was regularly at the gym, dining on kebabs and jugs of beer.  In my 30s I was generally in a decent job that came with a credit card and the necessity to entertain clients.  I took this responsibility very, very seriously, and was regularly out for lunch and dinner on the same day.   I would do anything for a good steak and a decent glass of wine.
+My career success was important to me.  I  thought I was healthy and to a certain extent bulletproof.  And besides, I could always make adjustments to my lifestyle if and when I ever needed to, right?.  At least that is what I told myself.
+[IMAGE] https://images.squarespace-cdn.com/content/v1/55cd8826e4b0af9801ddffe4/1573962437360-WCYM3QWAXOCI0OAWH07E/calories-food-health-37417.jpg (2500x1667) — alt: "calories-food-health-37417.jpg"
+### Turns out, I had no clue what *healthy* really meant.
+Growing up, the five food groups were Breads and Cereals, Fruit, Vegetables, Milk and Dairy, and Meat.  So when I ate a burger with a milkshake, I was having the healthiest meal on the planet.   Needless to say that my knowledge of what really impacted my wellbeing was about as good as most people’s understanding of social media advertising – I was living with a false understanding of what it was really all about.
+When I turned 40, I knew I wasn’t in the shape I wanted to be, so I went to the doctor just to see what was going on.  Many of the indicators were in the wrong place, and I was pre-diabetic!!  The stress of budgets to achieve plus the many thousands of client lunches and dinners had finally caught up with me!   The good Doctor advised that I should shed a few kilograms (I had expanded to 97kg, thirty more than my early twenties) – do more exercise and eat better.   ‘No problem Doc, I know what to do’.  I shrugged it off and blamed his scales which were obviously weren’t working properly.
+Later that year I was excited about going back to the doctor to show him my progress, I had taken up cycling afterall.  Once I got over the shock that nothing had really changed, I started to contemplate a reality I had never previously considered.  Perhaps I wasn’t in control of my wellbeing after all.
+### Seeking expert help
+Luckily for me I had my own wellbeing expert living with me.  For as long as I can remember, my fiancé Sharon had been studying everything you could possibly imagine about the human mind and body (Sharon is the founder of The Juicy Effect, I am indeed a lucky man).   As her knowledge increased over the years, so too did the number of (gentle) suggestions about a few things I should consider.
+‘Yeah babe, great suggestion, I might wait until after (insert illogical excuse here)’.
+Now that my health seemed to be crumbling under my feet, I decided that I should embark on an experiment which involved listening, doing what I was told, and let the results speak for themselves.
+### The experiment
+We had already planned to spend some time in Bali during 2015 (and other parts of South-East Asia) as part of a remote-working experiment.  I figured this was a great opportunity to adopt the principles.  I wasn’t necessarily in bad shape, but the admission that something had to change was a decent place to start.
+I started doing Yoga rather than intense workouts (turns out a 90-minute Level 2 Vinyasa Yoga class requires a lot of strength!!)
+I added in a bit more stretching, simple meditation and breathing exercises along with mindful gratitude (something else I thought was non-sense).  I made a few changes to my diet, but didn’t have to give up my love of good-tasting food and glasses of good wine..   All up I was dedicating a relatively small amount of my day to my wellbeing – about the same time that I had previously spent at the gym pretending to work out.  Most importantly, I stopped thinking about *diet*and more about what’s right for my body-mind type (Sharon does this as part of her Ayurvedic Lifestyle Package).
+### Are you serious?
+I was visiting some friends recently whom I hadn’t seen for a few years, and it was their reaction that prompted the writing of this article.
+They couldn’t believe how much my physical form had changed, and how content I seemed to be. Sure, staying in Bali could hardly be considered stressful, but I am still juggling many business responsibilities (more than at any time I can remember).
+I have now completely changed the way I look at my own wellbeing. It is not about fitness, it is not about mindfulness, it is not about emotional intelligence or what I eat. It is the synergistic effect that occurs when all of these things are working together. It is about having the right knowledge to make the right choices, and making relatively simple shifts.  This is the surprising, wonderful truth - life in our 40's doesn’t have to be about decline!
+Having been in senior jobs for a while now I know what it’s like. The hours are long, the deadlines are tight, and the expectations are growing.   Wellbeing is an issue that needs continuous attention.  Without it your creativity, decision-making and performance suffer.
+Thinking about a career or lifestyle transition?  Check out our [***Career & Lifestyle Transition***](/career-lifestyle-transition)

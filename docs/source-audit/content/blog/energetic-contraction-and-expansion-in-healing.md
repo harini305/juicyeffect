@@ -1,0 +1,23 @@
+# /blog/energetic-contraction-and-expansion-in-healing
+
+- **HTML <title>:** Energetic Contraction and Expansion in Healing  — Energy Healing Centre Ubud, Bali | The Juicy Effect
+- **Meta description:**  Often before we go through a shift in vibration, we will experience an energetic contraction.&nbsp; From the perspective of the mind, it can feel like we are going backwards… 
+- **OG image:** http://static1.squarespace.com/static/55cd8826e4b0af9801ddffe4/55d32fcce4b07a4744cd317c/66bd952f38e4327522266271/1783500117024/WhatsApp%2BImage%2B2024-08-15%2Bat%2B12.08.10%2BPM.jpg?format=1500w
+- **Canonical:** https://www.thejuicyeffect.com/blog/energetic-contraction-and-expansion-in-healing
+- **Collection:** title="Blog" navTitle="Blog" type=blog-side-by-side
+- **SEO (collection):** title="None" hidden=False
+
+**Post title:** Energetic Contraction and Expansion in Healing 
+**Published:** 2025-01-14  |  **Author:** Sharon Keating  |  **Categories:** []  |  **Tags:** ['energeticexpansioncontraction', 'sharonkeatingshamanichealerearthandstars', 'ubud bali', 'ubudhealer', 'shamanicenergyhealing', 'thejuicyeffect', 'energyhealingspecialists', 'hypnotherapy', 'transformationalworkshops', 'accessbars', 'breathwork']
+**Featured image:** https://images.squarespace-cdn.com/content/v1/55cd8826e4b0af9801ddffe4/1723700870234-IXUQDWS610L6UY5MW2MC/WhatsApp%2BImage%2B2024-08-15%2Bat%2B12.08.10%2BPM.jpg
+**Excerpt:** Often before we go through a shift in vibration, we will experience an energetic contraction.  From the perspective of the mind, it can feel like we are going backwards…
+
+Often before we go through a shift in vibration, we will experience an energetic contraction.  From the perspective of the mind, it can feel like we are going backwards.  We will often revisit issues or events from the past in some way.  This will occur either through the situations or events in the external world that show up, or our own internal world will naturally seem to align itself with a deeper exploration.  In these instances, we are not going backwards, rather, we are going through some final cleaning up before the big leap forward.  The energy field can perceive the new timeline (it can almost touch it) and so the intelligence of your energy field begins a final purge to align itself with that higher vibration.    My mum often says “its darkest just before the dawn” and this encapsulates the contraction that will often occur before the big leap forward where we expand out in a bigger way.   We see this rhythm in nature, we don’t live in continuous summer, there must be the letting go and shedding of winter before life can begin again and flourish in a new way.   And life always finds a way to flourish.
+[IMAGE] https://images.squarespace-cdn.com/content/v1/55cd8826e4b0af9801ddffe4/0bcc2c29-501d-4620-ac36-6f908cc638e8/Energetic+Expansion+The+Juicy+Effect+in+Ubud (1280x960)
+I also see this expansion and contraction in energy healing.   During the energy healing session, the client expands out into all of the new possibilities, by shedding old beliefs, unconscious limitations, ancestral wounds and calling back their power (to name but a few possibilities).  And then following the session there will often be a period of feeling more tender as their field continues to purge what is not in alignment with this new expanded state.  After a period (unique to each person), the energy field will settle into a new expanded vibration.
+Shamanic Energy Healing is a powerful modality to support you in releasing that which no longer serves you and inviting in the desired energetic templates for creating a soul-led life.
+*Sharon is a Certified Shamanic Practitioner (Diploma: Shaman College Circle of Earth and Spirit).  She is also a certified hypnotherapist, kinesiology and Ayurvedic Practitioner.*
+*You can read more about Sharon and shamanic energy healing*[*here*](/sharon-keating)
+Transformational Healing & Wellbeing - Energy Healing Specialists in Ubud, Bali.
+We are here to support your wellbeing journey through personal consultations, workshops and events.
+#energeticexpansionandcontraction #sharonmariekeatingshamanichealerearthandstars #ubud #ubudhealing #ubudenergyhealing #shamanichealing #shamanicenergyhealing #thejuicyeffect #energyhealingspecialists #ubudhealingcentre #hypnotherapy #astrology #vedicastrology #accessbars #breathwork#ubudhypnotherapy #ubudastrology #ubudvedicastrology #ubudaccessbars #ubudbreathwork #soultretrieval #poweranimalretrieval #transformationalworkshops #transformationalevents

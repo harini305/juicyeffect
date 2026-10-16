@@ -1,0 +1,512 @@
+/* The Juicy Effect — design system
+   Palette and type from docs/source-audit/design-tokens.json.
+   White pages, near-black ink, one signature teal, charcoal footer.
+   Logo colours appear only as a thin "spectrum" signature. */
+
+:root {
+  --white: #ffffff;
+  --ink: #171717;
+  --ink-2: #303030;
+  --charcoal: #454545;
+  --teal: #1ac1b9;
+  --teal-deep: #0e7f7a; /* teal for small text on white (AA contrast) */
+  --mist: #f3f8f7; /* faint teal tint for quiet surfaces */
+  --sand: #f7f5f1;
+  --line: rgba(23, 23, 23, 0.12);
+  --line-strong: rgba(23, 23, 23, 0.28);
+  --muted: #5b5b5b;
+
+  --logo-teal: #3ab9ae;
+  --logo-lime: #8bbd02;
+  --logo-orange: #f88800;
+  --logo-purple: #8a1587;
+  --logo-grey: #848688;
+
+  --font: var(--font-poppins), 'Poppins', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --fs-display: clamp(2.35rem, 1.2rem + 4.6vw, 5.4rem);
+  --fs-h1: clamp(2.1rem, 1.3rem + 3.2vw, 4.1rem);
+  --fs-h2: clamp(1.75rem, 1.2rem + 2vw, 3rem);
+  --fs-h3: clamp(1.35rem, 1.1rem + 0.9vw, 1.9rem);
+  --fs-h4: clamp(1.1rem, 1rem + 0.35vw, 1.3rem);
+  --fs-lede: clamp(1.1rem, 1rem + 0.45vw, 1.4rem);
+  --fs-body: 1.0625rem;
+  --fs-small: 0.9rem;
+  --fs-label: 0.78rem;
+
+  --page-max: 1440px;
+  --prose-max: 42rem;
+  --gutter: clamp(16px, 5vw, 72px);
+  --section: clamp(2.75rem, 2rem + 2.4vw, 4.5rem);
+  --radius: 4px;
+  --header-h: 76px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 106.25%;
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--header-h) + 16px);
+}
+
+body {
+  margin: 0;
+  background: var(--white);
+  color: var(--ink);
+  font-family: var(--font);
+  font-weight: 300;
+  font-size: var(--fs-body);
+  line-height: 1.8;
+  overflow-x: clip;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+img,
+video,
+iframe {
+  display: block;
+  max-width: 100%;
+}
+img {
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: 300;
+  line-height: 1.18;
+  letter-spacing: -0.015em;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: manual;
+  text-wrap: balance;
+}
+h1 strong,
+h2 strong,
+h3 strong,
+h4 strong,
+h5 strong {
+  font-weight: 700;
+}
+p {
+  margin: 0 0 1.1em;
+  text-wrap: pretty;
+}
+strong,
+b {
+  font-weight: 700;
+}
+a {
+  color: inherit;
+}
+button {
+  font: inherit;
+  color: inherit;
+}
+
+::selection {
+  background: var(--teal);
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  left: 12px;
+  top: -60px;
+  z-index: 200;
+  background: var(--ink);
+  color: var(--white);
+  padding: 0.6rem 1rem;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.skip-link:focus {
+  top: 12px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ------------------------------------------------------------ layout */
+.wrap {
+  width: 100%;
+  max-width: calc(var(--page-max) + 2 * var(--gutter));
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+.wrap-narrow {
+  width: 100%;
+  max-width: calc(52rem + 2 * var(--gutter));
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+.section {
+  padding-block: var(--section);
+}
+
+/* -------------------------------------------------------- type helpers */
+.display {
+  font-size: var(--fs-display);
+  line-height: 1.04;
+  letter-spacing: -0.03em;
+}
+.h1 {
+  font-size: var(--fs-h1);
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+}
+.h2 {
+  font-size: var(--fs-h2);
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+}
+.h3 {
+  font-size: var(--fs-h3);
+  line-height: 1.25;
+}
+.lede {
+  font-size: var(--fs-lede);
+  line-height: 1.65;
+  color: var(--ink);
+}
+
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+  font-size: var(--fs-label);
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  line-height: 1.4;
+}
+.eyebrow::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--teal);
+  flex: none;
+}
+.eyebrow--plain::before {
+  display: none;
+}
+
+/* Spectrum: the four logo colours as a thin brand signature */
+.spectrum {
+  display: flex;
+  height: 3px;
+  width: 100%;
+}
+.spectrum span {
+  flex: 1;
+}
+.spectrum span:nth-child(1) {
+  background: var(--logo-teal);
+}
+.spectrum span:nth-child(2) {
+  background: var(--logo-lime);
+}
+.spectrum span:nth-child(3) {
+  background: var(--logo-orange);
+}
+.spectrum span:nth-child(4) {
+  background: var(--logo-purple);
+}
+
+/* -------------------------------------------------------------- buttons */
+.btn {
+  --btn-fg: var(--ink);
+  --btn-fill: var(--ink);
+  --btn-fill-fg: var(--white);
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7em;
+  min-height: 48px;
+  padding: 0.75rem 1.45rem;
+  border: 2px solid var(--btn-fg);
+  border-radius: 999px;
+  color: var(--btn-fg);
+  background: transparent;
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+  text-decoration: none;
+  cursor: pointer;
+  overflow: hidden;
+  isolation: isolate;
+  transition: color 0.45s var(--ease), border-color 0.45s var(--ease);
+}
+.btn::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  z-index: -1;
+  background: var(--btn-fill);
+  border-radius: inherit;
+  transform: translateY(101%);
+  transition: transform 0.5s var(--ease);
+}
+.btn:hover,
+.btn:focus-visible {
+  color: var(--btn-fill-fg);
+}
+.btn:hover::before,
+.btn:focus-visible::before {
+  transform: translateY(0);
+}
+.btn .arrow {
+  transition: transform 0.45s var(--ease);
+}
+.btn:hover .arrow {
+  transform: translateX(4px);
+}
+.btn--solid {
+  background: var(--ink);
+  color: var(--white);
+  --btn-fill: var(--teal);
+  --btn-fill-fg: var(--ink);
+}
+.btn--solid:hover {
+  border-color: var(--teal);
+}
+.btn--light {
+  --btn-fg: var(--white);
+  --btn-fill: var(--white);
+  --btn-fill-fg: var(--ink);
+}
+.btn--teal {
+  --btn-fill: var(--teal);
+  --btn-fill-fg: var(--ink);
+}
+.btn--sm {
+  min-height: 42px;
+  padding: 0.55rem 1.1rem;
+  font-size: 0.875rem;
+}
+
+.link-arrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55em;
+  font-weight: 500;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  background: linear-gradient(currentColor, currentColor) 0 100% / 100% 1px no-repeat;
+  padding-bottom: 2px;
+  transition: background-size 0.45s var(--ease);
+}
+.link-arrow:hover {
+  background-size: 0% 1px;
+  background-position: 100% 100%;
+}
+.link-arrow .arrow {
+  transition: transform 0.45s var(--ease);
+}
+.link-arrow:hover .arrow {
+  transform: translateX(4px);
+}
+
+/* ---------------------------------------------------------------- prose */
+.prose {
+  max-width: var(--prose-max);
+  font-size: var(--fs-body);
+}
+.prose > :first-child {
+  margin-top: 0;
+}
+.prose p {
+  margin: 0 0 1.15em;
+}
+.prose a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--teal);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.3s;
+}
+.prose a:hover {
+  text-decoration-color: var(--ink);
+}
+.prose h2,
+.prose h3 {
+  font-size: var(--fs-h3);
+  margin: 2.2em 0 0.7em;
+}
+.prose h4 {
+  font-size: var(--fs-h4);
+  font-weight: 500;
+  margin: 2em 0 0.6em;
+  letter-spacing: 0;
+}
+.prose h5,
+.prose h6 {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 1.8em 0 0.5em;
+  letter-spacing: 0;
+}
+.prose ul,
+.prose ol {
+  margin: 0 0 1.4em;
+  padding: 0;
+  list-style: none;
+}
+.prose li {
+  position: relative;
+  padding-left: 1.6em;
+  margin-bottom: 0.55em;
+}
+.prose ul > li::before {
+  content: '';
+  position: absolute;
+  left: 0.2em;
+  top: 0.78em;
+  width: 7px;
+  height: 7px;
+  border: 1.5px solid var(--teal-deep);
+  border-radius: 50%;
+}
+.prose ol {
+  counter-reset: item var(--start, 0);
+}
+.prose ol > li {
+  counter-increment: item;
+  padding-left: 1.8em;
+}
+.prose ol > li::before {
+  content: counter(item) '.';
+  position: absolute;
+  left: 0.2em;
+  top: 0;
+  font-size: 1em;
+  font-weight: 500;
+  color: var(--teal-deep);
+  letter-spacing: 0.05em;
+}
+.prose blockquote {
+  margin: 2em 0;
+  padding: 0.2em 0 0.2em 1.4em;
+  border-left: 2px solid var(--teal);
+  font-size: 1.12em;
+}
+.prose blockquote p:last-child {
+  margin-bottom: 0;
+}
+.prose hr {
+  border: 0;
+  height: 1px;
+  background: var(--line);
+  margin: 3em 0;
+}
+.prose figure {
+  margin: 2.4em 0;
+}
+.prose figcaption {
+  margin-top: 0.8em;
+  font-size: var(--fs-small);
+  color: var(--muted);
+}
+.align-center {
+  text-align: center;
+}
+
+/* Motion: content is visible by default; JS opts elements into reveals. */
+.js-motion [data-reveal] {
+  visibility: hidden;
+}
+@media (prefers-reduced-motion: reduce) {
+  .js-motion [data-reveal] {
+    visibility: visible !important;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Fallback: if the motion script never runs, reveal everything after 2.5s */
+@keyframes reveal-fallback {
+  to {
+    visibility: visible;
+  }
+}
+.js-motion [data-reveal] {
+  animation: reveal-fallback 0s 2.5s forwards;
+}
+.js-motion.motion-ready [data-reveal] {
+  animation: none;
+}
+
+/* Split headings (server-rendered word spans) */
+.sw {
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  padding-bottom: 0.08em;
+  margin-bottom: -0.08em;
+}
+.sw > span {
+  display: inline-block;
+  will-change: transform;
+}
+
+/* Lenis smooth scroll */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.prose::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.prose h2,
+.prose h3,
+.prose h4 {
+  clear: both;
+}

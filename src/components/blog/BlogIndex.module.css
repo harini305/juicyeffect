@@ -1,0 +1,160 @@
+.band {
+  background: var(--mist);
+  margin-bottom: clamp(2rem, 4vw, 3.5rem);
+  border-bottom: 1px solid var(--line);
+}
+.head {
+  display: grid;
+  gap: 1.6rem;
+  padding-block: clamp(2.25rem, 4.5vw, 3.75rem);
+}
+.title {
+  max-width: 12ch;
+  margin-top: 1rem;
+}
+.headSide {
+  display: grid;
+  gap: 1.2rem;
+  align-content: end;
+}
+@media (min-width: 1000px) {
+  .head {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 4rem;
+    align-items: end;
+  }
+}
+.intro {
+  max-width: 40rem;
+  margin: 0 0 0.8rem;
+  color: var(--ink-2);
+}
+.featured {
+  display: grid;
+  gap: 3rem;
+  padding-bottom: clamp(3rem, 5vw, 4.5rem);
+}
+.side {
+  display: grid;
+  gap: 2.5rem;
+  align-content: start;
+}
+@media (min-width: 1000px) {
+  .featured {
+    grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+    gap: 4rem;
+  }
+}
+.archive {
+  padding-block: clamp(2rem, 4vw, 3.5rem) clamp(1.5rem, 3vw, 2.5rem);
+  border-top: 1px solid var(--line);
+}
+.archive > h2 {
+  margin-bottom: 2rem;
+}
+.year {
+  display: grid;
+  gap: 0.5rem;
+  padding-block: 1.5rem;
+  border-top: 1px solid var(--ink);
+}
+.yearLabel {
+  font-size: 1.6rem;
+  font-weight: 300;
+  color: var(--teal-deep);
+}
+@media (min-width: 900px) {
+  .year {
+    grid-template-columns: 9rem minmax(0, 1fr);
+    gap: 2rem;
+  }
+  .yearLabel {
+    position: sticky;
+    top: calc(var(--header-h) + 1.5rem);
+    align-self: start;
+    font-size: 2.4rem;
+  }
+}
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+@media (min-width: 1000px) {
+  .list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 2.5rem;
+  }
+}
+.row {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 1.1rem;
+  align-items: center;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+}
+.thumb {
+  display: block;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 50%;
+  background: var(--mist);
+}
+.thumb img {
+  transition: transform 0.7s var(--ease);
+}
+.row:hover .thumb img {
+  transform: scale(1.12);
+}
+.rowText {
+  display: grid;
+  gap: 0.15rem;
+}
+.rowTitle {
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+.row:hover .rowTitle {
+  text-decoration: underline;
+  text-decoration-color: var(--teal);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+.rowMeta {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.tags {
+  display: grid;
+  gap: 1.4rem;
+  padding-block: clamp(1.75rem, 4vw, 3.5rem) clamp(2.5rem, 5vw, 4.5rem);
+  border-top: 1px solid var(--line);
+}
+
+/* Side list: compact horizontal cards packed from the top */
+.side {
+  gap: 1.25rem !important;
+  align-content: start;
+}
+.side > div + div {
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+}
+.side > div > article {
+  grid-template-columns: 38% minmax(0, 1fr);
+  gap: 1.1rem;
+  align-items: start;
+}
+.side > div > article > a:first-child {
+  aspect-ratio: 4 / 3;
+}
+.side > div > article h3 {
+  font-size: 1.05rem;
+}
+.side > div > article p:last-child {
+  -webkit-line-clamp: 2;
+  font-size: 0.86rem;
+}

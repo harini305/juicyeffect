@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.log
+.env*
+.vercel
+# Original high-resolution assets (257 MB) stay local; the site uses the
+# optimised copies in public/img. Re-run `npm run images` from them if needed.
+source-assets/

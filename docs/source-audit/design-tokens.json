@@ -1,0 +1,76 @@
+{
+  "_source": "thejuicyeffect.com Squarespace 7.1 site.css (build 1840) + logo pixel sampling, audited 2026-10-16. 'verified' = read from CSS/asset; 'estimate' = approximated from artwork.",
+  "font": {
+    "family": "Poppins",
+    "license": "SIL Open Font License (Google Fonts)",
+    "weightsLoaded": { "normal": [300, 400, 500, 700], "italic": [300, 400, 700] },
+    "baseFontSizePx": 15,
+    "roles": {
+      "heading1": { "size": "3.4rem", "weight": 300, "lineHeight": "1.4em", "letterSpacing": "0em" },
+      "heading2": { "size": "2.5rem", "weight": 300, "lineHeight": "1.4em", "letterSpacing": "0em" },
+      "heading3": { "size": "2rem", "weight": 300, "lineHeight": "1.4em", "letterSpacing": "0em" },
+      "heading4": { "size": "1.2rem", "weight": 300, "lineHeight": "1.4em", "letterSpacing": "0em" },
+      "paragraphLarge": { "size": "1.4rem", "weight": 300, "lineHeight": "1.8em" },
+      "paragraph": { "size": "1rem", "weight": 300, "lineHeight": "1.8em" },
+      "paragraphSmall": { "size": "0.9rem", "weight": 300, "lineHeight": "1.8em" },
+      "meta": { "size": "1rem", "weight": 400, "lineHeight": "1.2em" },
+      "buttonPrimary": { "size": "1rem", "weight": 500, "lineHeight": "1.2em", "letterSpacing": "0.02em" },
+      "buttonSecondary": { "size": "1.1rem", "weight": 500, "lineHeight": "1.2em", "letterSpacing": "0.02em" },
+      "buttonTertiary": { "size": "0.9rem", "weight": 500, "lineHeight": "1.2em", "letterSpacing": "0.02em" },
+      "emphasisInHeadings": { "weight": 700, "note": "headings frequently wrap words in <strong>" }
+    }
+  },
+  "color": {
+    "verified": {
+      "white": "#FFFFFF",
+      "teal": "#1AC1B9",
+      "charcoal": "#454545",
+      "darkGrey": "#303030",
+      "nearBlack": "#171717"
+    },
+    "logoVerified": {
+      "logoTeal": "#3AB9AE",
+      "logoLime": "#8BBD02",
+      "logoOrange": "#F88800",
+      "logoPurple": "#8A1587",
+      "logoGrey": "#848688"
+    },
+    "serviceArtworkEstimate": {
+      "skyBlue": "#4CC9F0",
+      "petrolTeal": "#1B93A8",
+      "softOrange": "#F7A94B",
+      "green": "#22C55E",
+      "lilac": "#C65BD8",
+      "coral": "#F25C54",
+      "royalBlue": "#1C5BB8"
+    },
+    "usage": {
+      "pageBackground": "#FFFFFF",
+      "text": "#171717",
+      "headingSmall": "#303030",
+      "link": "#303030",
+      "announcementBar": { "background": "#1AC1B9", "text": "#FFFFFF" },
+      "accentSection": { "background": "#1AC1B9", "text": "#171717 (or #FFFFFF on hero card)" },
+      "footer": { "background": "#454545", "text": "#FFFFFF", "rule": "#FFFFFF 1px" },
+      "mobileMenu": { "background": "#FFFFFF", "link": "#171717" }
+    }
+  },
+  "button": {
+    "primary": { "style": "outline", "shape": "pill", "paddingY": "0.7rem", "paddingX": "1.3rem", "stroke": "2px", "color": "#171717" },
+    "secondary": { "style": "outline", "shape": "pill", "paddingY": "1.5rem", "paddingX": "2.2rem", "stroke": "2px", "color": "#303030" },
+    "tertiary": { "style": "outline", "shape": "underline", "paddingY": "1.5rem", "paddingX": "2.2rem", "stroke": "2px", "color": "#303030" },
+    "onTeal": { "border": "#FFFFFF", "text": "#FFFFFF" }
+  },
+  "layout": {
+    "maxPageWidth": "1221px",
+    "pagePaddingDesktop": "5vw",
+    "gutterMobile": "6vw",
+    "gridColumnsDesktop": 8,
+    "gridGap": "11px",
+    "breakpointMobile": "767px"
+  },
+  "motion": {
+    "globalAnimations": "none",
+    "gallerySliderAutoplaySeconds": 2
+  }
+}

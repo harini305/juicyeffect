@@ -1,0 +1,229 @@
+.hero {
+  background: var(--sand);
+  padding-block: clamp(1.25rem, 2.5vw, 2rem) clamp(2.5rem, 4.5vw, 4rem);
+}
+.heroGrid {
+  display: grid;
+  gap: 2.5rem;
+}
+.heroText {
+  display: grid;
+  gap: 1.3rem;
+  align-content: start;
+}
+.heroText :global(.eyebrow) {
+  margin-top: clamp(1rem, 2.5vw, 2rem);
+}
+.title {
+  max-width: 13ch;
+}
+.sub {
+  margin: 0 0 1rem;
+  font-size: var(--fs-h4);
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+.heroCopy {
+  max-width: 36rem;
+  font-size: 1.05rem;
+}
+.heroCopy p {
+  margin: 0;
+}
+.heroCtas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem 1.8rem;
+  align-items: center;
+  margin-top: 0.6rem;
+}
+.heroMedia {
+  overflow: hidden;
+}
+.photo {
+  aspect-ratio: 4 / 5;
+  border-radius: 999px 999px var(--radius) var(--radius);
+  max-height: 80vh;
+}
+.art {
+  max-width: 480px;
+  width: 86%;
+  justify-self: center;
+  overflow: visible;
+}
+.art img {
+  width: 100%;
+  mix-blend-mode: multiply;
+}
+@media (min-width: 1000px) {
+  .heroGrid {
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+    gap: 6rem;
+    align-items: center;
+  }
+}
+
+.layout {
+  display: grid;
+  gap: 2rem;
+  padding-block: clamp(2rem, 4.5vw, 4rem) clamp(1rem, 3vw, 3rem);
+}
+.toc {
+  display: none;
+}
+.main {
+  min-width: 0;
+}
+@media (min-width: 1100px) {
+  .layout {
+    grid-template-columns: 13rem minmax(0, 1fr);
+    gap: 3.5rem;
+  }
+  .toc {
+    display: block;
+    position: sticky;
+    top: calc(var(--header-h) + 2rem);
+    align-self: start;
+    max-height: calc(100vh - var(--header-h) - 4rem);
+    overflow-y: auto;
+  }
+}
+@media (min-width: 1280px) {
+  .layout {
+    grid-template-columns: 12.5rem minmax(0, 1fr) 270px;
+    gap: 3rem;
+  }
+}
+.tocLabel {
+  margin: 0 0 0.8rem;
+  font-size: var(--fs-label);
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.toc ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-left: 1px solid var(--line-strong);
+}
+.toc a {
+  display: block;
+  padding: 0.35rem 0 0.35rem 1rem;
+  margin-left: -1px;
+  border-left: 2px solid transparent;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  text-decoration: none;
+  color: var(--ink-2);
+  transition: border-color 0.3s, color 0.3s;
+}
+.toc a:hover {
+  border-left-color: var(--teal);
+  color: var(--ink);
+}
+
+.chapter {
+  padding-bottom: clamp(1.5rem, 2.5vw, 2.25rem);
+  scroll-margin-top: calc(var(--header-h) + 1.5rem);
+}
+.chapterTitle {
+  margin-bottom: 1.4rem;
+  font-size: var(--fs-h3);
+  max-width: 24ch;
+}
+.chapter :global(.prose) {
+  max-width: none;
+}
+
+.invite {
+  display: grid;
+  gap: 1.4rem;
+  justify-items: start;
+  margin: 0.5rem 0 1.5rem;
+  padding: clamp(1.75rem, 3.5vw, 2.75rem);
+  background: var(--teal);
+  border-radius: var(--radius);
+  scroll-margin-top: calc(var(--header-h) + 1.5rem);
+}
+.inviteBody {
+  max-width: 42rem;
+}
+.inviteBody p:last-child {
+  margin-bottom: 0;
+}
+
+.faq {
+  padding-top: 1rem;
+  scroll-margin-top: calc(var(--header-h) + 1.5rem);
+}
+.faqList {
+  margin-top: 2rem;
+  border-top: 1px solid var(--ink);
+}
+.faqItem {
+  border-bottom: 1px solid var(--line-strong);
+}
+.faqItem summary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 34px;
+  gap: 1rem;
+  align-items: center;
+  padding: 1.3rem 0;
+  cursor: pointer;
+  list-style: none;
+  font-size: clamp(1.05rem, 1rem + 0.4vw, 1.3rem);
+  line-height: 1.4;
+}
+.faqItem summary::-webkit-details-marker {
+  display: none;
+}
+.faqNum {
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  color: var(--teal-deep);
+}
+.faqIcon {
+  position: relative;
+  width: 34px;
+  height: 34px;
+  border: 1.5px solid var(--ink);
+  border-radius: 50%;
+}
+.faqIcon::before,
+.faqIcon::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 12px;
+  height: 1.5px;
+  background: currentColor;
+  transform: translate(-50%, -50%);
+}
+.faqIcon::after {
+  transform: translate(-50%, -50%) rotate(90deg);
+  transition: transform 0.4s var(--ease);
+}
+.faqItem[open] .faqIcon {
+  background: var(--teal);
+  border-color: var(--teal);
+}
+.faqItem[open] .faqIcon::after {
+  transform: translate(-50%, -50%) rotate(0);
+}
+.faqAnswer {
+  padding: 0 0 1.5rem;
+}
+@media (max-width: 600px) {
+  .faqAnswer {
+    padding-left: 0;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1279.98px) {
+  .layout > aside {
+    display: none;
+  }
+}

@@ -1,0 +1,118 @@
+.orbit {
+  background: var(--white);
+  overflow: hidden;
+}
+.inner {
+  display: grid;
+  gap: 2.5rem;
+  padding-block: clamp(4rem, 8vw, 6rem);
+}
+.intro {
+  display: grid;
+  gap: 1.1rem;
+  align-items: end;
+}
+@media (min-width: 1000px) {
+  .intro {
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+    grid-template-areas: 'title text' 'title cta';
+    column-gap: 4rem;
+  }
+  .intro > :nth-child(1) {
+    grid-area: title;
+    align-self: start;
+  }
+  .intro > :nth-child(2) {
+    grid-area: text;
+  }
+  .intro > :nth-child(3) {
+    grid-area: cta;
+  }
+}
+.viewport {
+  min-width: 0;
+  margin-inline: calc(-1 * var(--gutter));
+  padding-inline: var(--gutter);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+.viewport::-webkit-scrollbar {
+  display: none;
+}
+.track {
+  display: flex;
+  gap: clamp(1.2rem, 3vw, 3rem);
+  margin: 0;
+  padding: 1rem 0 1.5rem;
+  list-style: none;
+  width: max-content;
+}
+.item {
+  scroll-snap-align: center;
+  width: min(62vw, 300px);
+  flex: none;
+}
+.link {
+  display: grid;
+  gap: 1.1rem;
+  text-decoration: none;
+}
+.tile {
+  display: block;
+  border-radius: 50%;
+  will-change: transform;
+}
+.tile img {
+  width: 100%;
+  transition: transform 0.8s var(--ease);
+}
+.link:hover .tile img {
+  transform: scale(1.05);
+}
+.meta {
+  display: flex;
+  gap: 0.8rem;
+  align-items: baseline;
+  padding-inline: 0.5rem;
+}
+.num {
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  color: var(--teal-deep);
+}
+.name {
+  font-size: 1.02rem;
+  line-height: 1.35;
+}
+.link:hover .name {
+  text-decoration: underline;
+  text-decoration-color: var(--teal);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+@media (min-width: 1000px) {
+  .inner {
+    min-height: 100vh;
+    align-content: center;
+    gap: 2rem;
+    padding-block: calc(var(--header-h) + 0.5rem) 2rem;
+  }
+  .viewport {
+    overflow: visible;
+    scroll-snap-type: none;
+  }
+  .item {
+    width: clamp(220px, min(21vw, 36vh), 320px);
+  }
+}
+@media (prefers-reduced-motion: reduce) and (min-width: 1000px) {
+  .viewport {
+    overflow-x: auto;
+  }
+  .inner {
+    min-height: 0;
+  }
+}

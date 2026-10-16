@@ -1,0 +1,39 @@
+# /blog/the-puzzle-of-workplace-wellbeing
+
+- **HTML <title>:** The confounding puzzle of workplace resilience — Energy Healing Centre Ubud, Bali | The Juicy Effect
+- **Meta description:**  Do you see yourself as a genuinely innovative leader? &nbsp;Are you working as part of a genuinely innovative workplace? &nbsp;If so, this article is written for specifically for you... 
+- **OG image:** http://static1.squarespace.com/static/55cd8826e4b0af9801ddffe4/55d32fcce4b07a4744cd317c/595a121520099e6c2a268cd3/1772330297704/StockSnap_8QQMEOXVYH.jpg?format=1500w
+- **Canonical:** https://www.thejuicyeffect.com/blog/the-puzzle-of-workplace-wellbeing
+- **Collection:** title="Blog" navTitle="Blog" type=blog-side-by-side
+- **SEO (collection):** title="None" hidden=False
+
+**Post title:** The confounding puzzle of workplace resilience
+**Published:** 2017-07-03  |  **Author:** Sharon Keating  |  **Categories:** ['Business']  |  **Tags:** ['the confounding puzzle of workplace resilience', 'how to improve workplace resilience', 'workplace wellbeing', 'workplace resilience', 'how to improve employee resilience']
+**Featured image:** https://images.squarespace-cdn.com/content/v1/55cd8826e4b0af9801ddffe4/1499130657501-5FAEINC37UBSFP1EDBPV/StockSnap_8QQMEOXVYH.jpg
+**Excerpt:** Do you see yourself as a genuinely innovative leader?  Are you working as part of a genuinely innovative workplace?  If so, this article is written for specifically for you...
+
+Terms like *Resilience*and *Wellbeing* are earning their place alongside other common workplace terms like Culture, Engagement and Employee Experience.  As someone who has seen first-hand the dramatic impacts of a lack of resilience and its impact on personal wellbeing, it is certainly important and worth attention.
+But what is this thing called resilience, *really?*
+According to the Mirriam-Webster dictionary (resilience was their word-of-the-day in late 2016), there are two meanings:  (i) the capability of a strained body to recover its size and shape after deformation caused especially by compressive stress, and (ii) an ability to recover from or adjust easily to misfortune or change.
+The first seems to relate to objects, the second to people.  Let’s focus on the second, which if you look carefully consists of two parts – (i) the ability to recover or adjust easily - (ii) to misfortune or change.
+The first part is what I call *Rocky Resilience* – the ability to take punches and still keep moving forward.  Others might refer to this as grit, determination, and willpower.  Admirable qualities that are certainly worth strengthening, but possibly not always sustainable.
+It’s the second part that intrigues me the most.  Who is it that determines the difference between fortune and misfortune?  Who determines what is *change?*  Is it possible that *perception* is a key influencer of resilience?  I will come back to this shortly.
+#### The high reward of employee resilience and wellbeing
+It is now generally accepted that employee wellbeing and employee resilience are linked to overall company performance.  If you aren’t convinced, there are new reports being released every day that are but a Google search away.  For example, Mars Drinks recently commissioned a global study of 3,800 people, across industries and companies of all sizes, to identify the factors that contribute to workplace success.  The research isolated that 90 percent of respondents worldwide believe that collaboration, engagement and well-being productivity are key success drivers.
+Virgin Pulse recently announced the results of its annual State of the Industry Survey.   They asked over 600 HR and Benefits leaders at global organizations to weigh in on how employee wellbeing, workplace culture and employee engagement are connected, and the role they play in driving employee satisfaction, retention and performance within their organizations.  The research isolated key relationships between employee wellbeing, culture and engagement.
+#### What’s the business problem?
+Let’s take an example of two people working in exactly the same job, with the same boss, with the same pay and the same colleagues.  It is possible for these two people to have a very different version of how much they enjoy their role.  Whilst a Leader/Company can help to shape and influence a person’s perception, the person themselves is the one who has the most influence over their own perception.  Unless *they*choose to start seeing the world around them differently, nothing really changes.
+This is the confounding puzzle of workplace resilience.  Whilst it might be one thing to take steps to improve it (e.g. introducing a resilience improvement program), it can only be improved if a person is willing to open their mind to new ways of looking at the world around them.  Company *and* individual need to contribute equally.
+#### What’s the solution?
+Based on all of the evidence we can muster, there is no single magic bullet, silver bullet, gold bullet, not even a bronze or tin bullet.  There are simply too many variables in play.  The good news is that in our modern world we have unprecedented knowledge about how the body and mind work, how we are wired, how we can change, and how to be human.   Quite simply, everyone is different, and change mostly comes from within.  The complexity is that it is not as simple as swallowing a pill or reading one book.  It requires personal effort and curiosity that is not for the feint hearted, because change is often about examining and staring down our core beliefs with a neutral mind.
+For Workplace Leaders who are genuinely interested in improving performance in the long term, this represents a significant opportunity to tackle resilience on three fronts:
+- The overall workplace *system* - policies, agreements, culture.
+- Leaders and Teams – working together collaboratively.
+- Personal development - providing individuals with the tools, skills and knowledge they need to create a better experience for themselves.
+Unless these three perspectives are considered at the same time, it is difficult for a workplace to move the dial on resilience.
+#### A special invitation for genuinely innovative leaders
+Given that the dividend on an increase in employee resilience is significant, it is an area worth experimenting with.  We have created a Workplace Resilience Improvement program for contemporary Leaders to support sustainable top performance.  Called the 33 Day Challenge, it combines holistic wellbeing strategies (physical, mental, emotional & spiritual) as well as additional strategies to cultivate individual accountability, self-regulation, self-care, resilience, behavior and performance.
+The problem with classroom style training is that it is difficult to replicate the circumstances that come up outside the classroom. The 33 Day Challenge overcomes this by helping individuals to discover and integrate important daily habits and strategies *as they are living their life.*It is experiential in nature, and this is why it is effective.  Another reason is that whilst team members can participate at the same time, individuals receive individual attention, so that they can work on what is most important to them.  Different things simply suit different people.
+***As a wise person once said to me that 'we learn through application, otherwise information remains in the realm of being someone else’s ‘truth’***
+If you would like to find out more about the 33 Day Challenge for Sustainable Top Performance, please [click here](/improve-workplace-performance-with-the-33-day-challenge).  Or simply [contact us](/get-started-to-improve-performance).
+[BUTTON] "Contact Us" → /get-started-to-improve-performance

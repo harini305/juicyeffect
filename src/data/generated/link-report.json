@@ -1,0 +1,176 @@
+[
+ {
+  "route": "/distance-healing",
+  "from": "https://jason-buchanan-l386.squarespace.com/sharon-keating",
+  "to": "/sharon-keating",
+  "reason": "staging domain → local route"
+ },
+ {
+  "route": "/energetic-facelift-the-natural-alternative",
+  "from": "/julia-guerre",
+  "to": "/meet-julia",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/healing-packages",
+  "from": "/courses-certifications",
+  "to": "/online",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/healing-sessions",
+  "from": "/hypnotherapy-packages-the-juicy-effect",
+  "to": "/hypnotherapy-package",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/home",
+  "from": "/energetic-alignment-package",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/home",
+  "from": "/hypnotherapy-packages-the-juicy-effect",
+  "to": "/hypnotherapy-package",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/packages-1",
+  "from": "/hypnotherapy-packages-the-juicy-effect",
+  "to": "/hypnotherapy-package",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/packages-1",
+  "from": "/the-next-chapter-personal-retreat",
+  "to": "/the-next-chapter-private-retreat",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/private-retreats",
+  "from": "/courses-certifications",
+  "to": "/online",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/",
+  "from": "/energetic-alignment-package",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/",
+  "from": "/hypnotherapy-packages-the-juicy-effect",
+  "to": "/hypnotherapy-package",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/start-your-next-chapter",
+  "from": "/jason-buchanan",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/the-juicy-effect-story",
+  "from": "/jason-buchanan",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/trauma-release-with-breathwork",
+  "from": "https://www.thejuicyeffect.com/meet-gita-desyanti",
+  "to": "/meet-gita-sianipar",
+  "reason": "broken link (404) → verified destination"
+ },
+ {
+  "route": "/blog/2015/8/18/when-did-things-get-so-serious",
+  "from": "/i-choose-juicy",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/2015/8/18/would-you-only-maintain-the-engine-in-your-car",
+  "from": "/the-33-day-challenge",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/2016/2/14/the-surprising-truth-about-wellbeing-in-our-40s",
+  "from": "/career-lifestyle-transition",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/2017/1/12/goldilocks-and-yoda-business-coaching-gurus",
+  "from": "/products?tag=Essential%20Business%20Foundations%20For%20Senior%20Leaders",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/2020/11/14/astrology-and-the-heros-journey",
+  "from": "/discover-your-energetic-flow-in-ubud",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/2020/4/10/how-to-find-your-flow-in-the-modern-world-through-vedic-astrology",
+  "from": "/career-lifestyle-transition",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/2021/7/11/what-is-yoga-really",
+  "from": "/yoga-as-a-way-of-life-for-everyday-people",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/from-the-journey-the-joy-that-heals",
+  "from": "http://journey.It",
+  "to": null,
+  "reason": "malformed auto-link in source text"
+ },
+ {
+  "route": "/blog/releasing-negative-emotions-to-live-your-best-life",
+  "from": "/products?tag=how%20to%20speak%20in%20public%20with%20confidence",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/should-men-in-their-forties-do-yoga",
+  "from": "/improve-workplace-performance-with-the-33-day-challenge",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/the-puzzle-of-workplace-wellbeing",
+  "from": "/improve-workplace-performance-with-the-33-day-challenge",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/the-puzzle-of-workplace-wellbeing",
+  "from": "/get-started-to-improve-performance",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/the-puzzle-of-workplace-wellbeing",
+  "from": "/get-started-to-improve-performance",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/understanding-the-five-elements",
+  "from": "/classes",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ },
+ {
+  "route": "/blog/who-am-i",
+  "from": "/discover-your-energetic-flow-in-ubud",
+  "to": null,
+  "reason": "destination does not exist (404 on source site); link removed, text kept"
+ }
+]

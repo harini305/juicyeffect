@@ -1,0 +1,380 @@
+/* Full-screen closing panel */
+.footer {
+  display: flex;
+  flex-direction: column;
+  background: var(--charcoal);
+  color: var(--white);
+  font-size: 0.88rem;
+}
+.footer a {
+  text-decoration: none;
+  transition: color 0.3s;
+}
+.footer a:hover {
+  color: var(--teal);
+}
+.footer :focus-visible {
+  outline-color: var(--white);
+}
+.footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding-block: 2.25rem 1.25rem;
+}
+.h {
+  margin: 0 0 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--teal);
+}
+
+/* ---------------------------------------------------------- bookings */
+.book {
+  display: grid;
+  gap: 1.5rem;
+}
+.bookText {
+  display: grid;
+  gap: 0.8rem;
+  align-content: start;
+  justify-items: start;
+}
+.bookTitle {
+  font-size: clamp(1.8rem, 1.1rem + 2vw, 2.9rem);
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+}
+.bookTitle strong {
+  color: var(--white);
+}
+.bookText p {
+  margin: 0;
+  max-width: 32rem;
+  color: rgba(255, 255, 255, 0.82);
+  line-height: 1.6;
+}
+.more {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  color: var(--teal);
+}
+.tiles {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.6rem;
+}
+.tile {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas: 'label arrow' 'value arrow';
+  align-items: center;
+  gap: 0.1rem 1rem;
+  height: 100%;
+  padding: 0.85rem 1.1rem;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.07);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  transition: background 0.35s, border-color 0.35s, transform 0.4s var(--ease);
+}
+.tile:hover {
+  background: var(--teal);
+  border-color: var(--teal);
+  color: var(--ink) !important;
+  transform: translateY(-2px);
+}
+.tileLabel {
+  grid-area: label;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--teal);
+  transition: color 0.35s;
+}
+.tile:hover .tileLabel {
+  color: var(--ink);
+}
+.tileValue {
+  grid-area: value;
+  font-size: 1.02rem;
+  line-height: 1.35;
+  overflow-wrap: break-word;
+}
+.tile :global(.arrow) {
+  grid-area: arrow;
+}
+@media (min-width: 640px) {
+  .tiles {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (min-width: 1000px) {
+  .book {
+    grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+    gap: 3.5rem;
+    align-items: center;
+  }
+}
+
+/* ------------------------------------------------------------- links */
+.links {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.75rem 1.5rem;
+  padding-top: clamp(1.25rem, 3vh, 2rem);
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+}
+.links li {
+  margin-bottom: 0.2rem;
+  line-height: 1.45;
+}
+.brand {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 56px minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+}
+.logo {
+  width: 56px;
+  aspect-ratio: 1;
+  display: grid;
+  place-items: center;
+  background: var(--white);
+  border-radius: 50%;
+}
+.logo img {
+  width: 42px;
+}
+.intro {
+  margin: 0;
+  max-width: 28rem;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.78);
+}
+.twoCol {
+  columns: 1;
+}
+.address {
+  display: grid;
+  gap: 0.5rem;
+  justify-items: start;
+  font-style: normal;
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: rgba(255, 255, 255, 0.8);
+}
+.address a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--white);
+  font-weight: 500;
+}
+@media (min-width: 760px) {
+  .links {
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr) minmax(0, 1fr);
+  }
+  .twoCol {
+    columns: 2;
+    column-gap: 1.5rem;
+  }
+  .twoCol li {
+    break-inside: avoid;
+  }
+}
+@media (min-width: 1100px) {
+  .links {
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 0.75fr) minmax(0, 1.25fr) minmax(0, 0.9fr);
+    gap: 2.75rem;
+  }
+  .brand {
+    grid-column: auto;
+  }
+}
+
+/* -------------------------------------------------- healing sessions */
+.sessionsRow {
+  display: grid;
+  gap: 0.45rem;
+  padding-top: clamp(1rem, 2.5vh, 1.5rem);
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+}
+.sessionsRow .h {
+  margin: 0;
+}
+.sessions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1.3rem;
+  font-size: 0.84rem;
+  line-height: 1.5;
+}
+@media (min-width: 1100px) {
+  .sessionsRow {
+    grid-template-columns: 9rem minmax(0, 1fr);
+    gap: 1.5rem;
+    align-items: baseline;
+  }
+}
+
+/* ------------------------------------------------------------- legal */
+.bottom {
+  display: grid;
+  gap: 0.5rem;
+  padding-top: clamp(0.85rem, 2vh, 1.25rem);
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+  font-size: 0.74rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.62);
+}
+.bottom p {
+  margin: 0;
+}
+.bottom strong {
+  color: rgba(255, 255, 255, 0.9);
+}
+.legal {
+  color: var(--white);
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+  white-space: nowrap;
+}
+@media (min-width: 1000px) {
+  .bottom {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 3rem;
+  }
+}
+
+/* Short laptop screens: tighten so the whole panel still fits one screen */
+@media (min-width: 1000px) and (max-height: 760px) {
+  .inner {
+    gap: 1rem;
+    padding-block: 1.25rem 0.85rem;
+  }
+  .bookTitle {
+    font-size: 2.1rem;
+  }
+  .bookText {
+    gap: 0.55rem;
+  }
+  .bookText p {
+    font-size: 0.85rem;
+  }
+  .tiles {
+    gap: 0.45rem;
+  }
+  .tile {
+    padding: 0.6rem 0.95rem;
+  }
+  .tileValue {
+    font-size: 0.92rem;
+  }
+  .links {
+    padding-top: 1rem;
+  }
+  .links li {
+    margin-bottom: 0.05rem;
+    font-size: 0.82rem;
+  }
+  .intro {
+    font-size: 0.78rem;
+  }
+  .sessionsRow {
+    padding-top: 0.75rem;
+  }
+  .sessions {
+    font-size: 0.8rem;
+  }
+  .bottom {
+    padding-top: 0.7rem;
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 639.98px) {
+  .tiles {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.5rem;
+  }
+  .tile {
+    padding: 0.7rem 0.8rem;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: 'label' 'value';
+  }
+  .tile :global(.arrow) {
+    display: none;
+  }
+  .tileValue {
+    font-size: 0.86rem;
+  }
+  .sessions {
+    gap: 0.25rem 1rem;
+    font-size: 0.8rem;
+  }
+}
+
+/* Compact footer: logo + contact buttons in the brand column */
+.links {
+  padding-top: 0;
+  border-top: 0;
+}
+.brand {
+  grid-template-columns: 56px minmax(0, 1fr) !important;
+}
+.brand .tiles {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.5rem;
+}
+.brand .tile {
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-areas: 'label' 'value';
+  padding: 0.6rem 0.8rem;
+  border-radius: 10px;
+}
+.brand .tileValue {
+  font-size: 0.85rem;
+}
+@media (min-width: 1100px) {
+  .links {
+    grid-template-columns: minmax(0, 1.9fr) minmax(0, 0.7fr) minmax(0, 1.2fr) minmax(0, 0.9fr);
+  }
+}
+@media (max-width: 759.98px) {
+  .brand {
+    grid-template-columns: 1fr !important;
+  }
+  .brand .tileValue {
+    overflow-wrap: anywhere;
+  }
+}
+
+.inner {
+  padding-block: 1.75rem 1.75rem !important;
+}
+.brand .tileValue {
+  font-size: 0.82rem;
+  overflow-wrap: normal;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+@media (min-width: 1100px) {
+  .links {
+    grid-template-columns: minmax(0, 2.1fr) minmax(0, 0.7fr) minmax(0, 1.2fr) minmax(0, 0.85fr) !important;
+    gap: 2.25rem !important;
+  }
+}

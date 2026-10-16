@@ -1,0 +1,31 @@
+# /blog/from-overwhelm-to-flow-for-teachers
+
+- **HTML <title>:** Wisdom to move from overwhelm to flow. — Energy Healing Centre Ubud, Bali | The Juicy Effect
+- **Meta description:**  With research continuing to highlight the increasing pressure being faced by a growing number of professions, the good news is that we live in a time with so much knowledge about how to change all of that. 
+- **OG image:** http://static1.squarespace.com/static/55cd8826e4b0af9801ddffe4/55d32fcce4b07a4744cd317c/5aefddb270a6ad6e39841d64/1772330297137/From+overwhelm+to+Flow+-+The+Juicy+Effect.jpg?format=1500w
+- **Canonical:** https://www.thejuicyeffect.com/blog/from-overwhelm-to-flow-for-teachers
+- **Collection:** title="Blog" navTitle="Blog" type=blog-side-by-side
+- **SEO (collection):** title="None" hidden=False
+
+**Post title:** Wisdom to move from overwhelm to flow.
+**Published:** 2018-04-23  |  **Author:** Sharon Keating  |  **Categories:** ['Personal']  |  **Tags:** ['teachers', 'the juicy effect', 'ubud retreat', 'things to do in ubud']
+**Featured image:** https://images.squarespace-cdn.com/content/v1/55cd8826e4b0af9801ddffe4/1525686979220-ZGUJ12YNOICH29L9LTBR/From+overwhelm+to+Flow+-+The+Juicy+Effect.jpg
+**Excerpt:** With research continuing to highlight the increasing pressure being faced by a growing number of professions, the good news is that we live in a time with so much knowledge about how to change all of that.
+
+[IMAGE] https://images.squarespace-cdn.com/content/v1/55cd8826e4b0af9801ddffe4/1525687235844-88TRAR49G8EW05UGB9HI/martin-sanchez-396165-unsplash.jpg (2048x1365) — alt: "martin-sanchez-396165-unsplash.jpg"
+While technology continues to promise us greater convenience in our lives, the reality is that we are over stimulated.  Our jobs often have us connected 24/7, and social media notifications become never ending, gnawing at our minds which long for rest. Our nervous systems are not designed to cope with this level of ongoing intensity, chronic stress and over-stimulation.  Our human hardware and software cannot take this load by themselves.
+#### The stress of serving the public
+First-responders, medical professionals, those in law-enforcement, these are all jobs that often dont’ get the credit they deserve.  Another profession is Teaching.  Elizabeth Lonergan, principal of St Mary's Coptic Orthodox College spoke recently at the National Future Schools Expo and Conferences in Melbourne (March, 2018).  She brought attention to the fact that staff attrition among teachers is an international epidemic. Citing teacher wellbeing as a key issue impacting attrition, the fact that Teachers are mentally, physically and emotionally exhausted was also highlighted.   The expectations placed on Teachers continues to increase.  Other professions have similar stories.
+It seems that intensity and stimulation go hand in hand with the times we are living in.   The question is - are we destined to live in a state of overwhelm, just managing to get by, or is there a way in which we can live with greater ease and flow?  Doesn't everyone deserve to tap into the richness and joy that these modern times also share?
+#### There is good news
+There*is*a way to counterbalance the hectic nature of the modern world.   This fact is, we live in a time with unpresented knowledge about how the body and mind work. The modern world may be intense, but we also live in a very exciting time.  Some of this wisdom is entirely new to these times and has been derived from cutting edge research. And some is of this knowledge has been around for thousands of years (with science only now proving what our ancient wisdom traditions have known all along).  This ‘wisdom’ - the fusion of the ‘Old with the New’, can be applied so that we can experience greater ease and flow in our lives. We can move from a place of overwhelm, to a place of flow and joy. So how can this happen?
+#### Too busy to be healthy?
+Those of us who are busy and have a lot to accomplish often neglect our health because ‘’we don’t have time’’.  We feel that our cup is full, and ‘I’m fine’.  Until you’re not.
+There are simple daily habits that can make a big difference to daily life.  In fact what we do and how we think on a daily basis *really*matters.  With knowledge of what these things are, and awareness of how to harness them properly, a much higher state of wellbeing can be just around the corner.
+#### Everything either helps us or hinders us
+The fact is that we all are facing different stressors today than our parents and grandparents did only a generation or two ago.  Our nervous systems, bodies and minds therefore need a greater level of support if we are to thrive and live like *the good old days*.   Most of what we learnt back then assumed that there is a generic 'wellbeing' playbook.  The reality is that we are all unique, and what is helpful to one person can be harmful to another.  This is something that our ancient wisdom traditions have always known.
+Ayurveda is a 5,000 year-old system of holistic medicine that translates as the “science of life”. As the sister science of Yoga, Ayurveda teaches us that each individual has a unique ‘blueprint’, which explains why many one-size-fits-all approaches to improving wellbeing simply don’t work.  For example, Mindfulness, while effective for many, will not be effective for everyone. It’s the reason why some lifestyle and diet approaches are not uniformly successful.  We are all unique!
+We have found that the best results are obtained by bringing together the best of what works from a range of ancient and modern traditions, combine in a way that is suitable for the modern world.   This fusion of ‘old and new’ wisdom, when packaged and harnessed in a way that is suitable for each individual person, can be highly effective.
+#### Why not join us in Ubud?
+We are based in Ubud (Bali) which derives its name from a Balinese word that means ‘medicine’.  It is a mystical place that attracts people from across the world who seek out transformation for body, mind and soul.   Book yourself a flight, stay for a while, rejuvenate, learn a few new things and transform your future.
+Imagine returning home full of the knowledge you need to determine your own health and wellbeing future.  That’s what we’re here for.
