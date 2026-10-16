@@ -660,3 +660,58 @@ a.pkLink:hover .pkName {
 .onActions :global(.link-arrow) {
   color: var(--ink);
 }
+
+/* Hero fits one screen */
+.heroGrid {
+  padding-block: clamp(1.25rem, 2.5vw, 2rem) clamp(1.75rem, 3vw, 2.5rem);
+}
+.heroTitle {
+  font-size: clamp(2rem, 0.9rem + 3.4vw, 3.6rem);
+}
+.heroIntro {
+  font-size: 0.98rem;
+}
+.heroText {
+  gap: 1.1rem;
+}
+@media (min-width: 1000px) {
+  .heroGrid {
+    min-height: 0;
+    gap: 1rem clamp(2.5rem, 4vw, 4rem);
+  }
+  .collage {
+    max-width: min(560px, calc((100vh - 220px) / 1.08));
+  }
+}
+@media (min-width: 1000px) and (max-height: 800px) {
+  .heroTitle {
+    font-size: clamp(2rem, 0.9rem + 2.6vw, 3rem);
+  }
+  .heroLinks {
+    display: none;
+  }
+}
+
+/* Closing "Not yet in Ubud?" band: compact, balanced */
+.online {
+  padding-block: clamp(2.5rem, 4vw, 3.5rem);
+}
+.onGrid :global(.display) {
+  font-size: clamp(2rem, 1.2rem + 2.4vw, 3.4rem);
+}
+.onSide .onP {
+  font-size: clamp(1.05rem, 0.95rem + 0.4vw, 1.25rem);
+  max-width: 40rem;
+}
+@media (min-width: 1000px) {
+  .heroGrid {
+    grid-template-rows: auto auto;
+    align-content: center;
+  }
+  .heroHead {
+    align-self: end;
+  }
+  .heroText {
+    align-self: start;
+  }
+}

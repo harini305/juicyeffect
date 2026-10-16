@@ -6,7 +6,6 @@ import Arrow from '@/components/ui/Arrow';
 import ServiceOrbit from './ServiceOrbit';
 import MomentsGrid from './MomentsGrid';
 import { img, navTitle, getPage, posts, formatDate, stripTags, hubCards } from '@/lib/content';
-import Marquee from './Marquee';
 import { CONTACT } from '@/data/site';
 import s from './HomePage.module.css';
 
@@ -46,8 +45,6 @@ export default function HomePage({ page }) {
   const captionLead = (hero?.caption || '').split(':')[0] + ':';
   // Logo mark (the original favicon artwork) for the rotating badge.
   const MARK = imgProps('source-assets/brand/favicon.ico');
-  const seenTick = new Set();
-  const tickerItems = hubCards('/healing-sessions').filter((c) => !seenTick.has(c.href) && seenTick.add(c.href)).map((c) => ({ href: c.href, name: c.name }));
 
   // Section 2: sessions + packages
   const h2s = s2.blocks.filter((b) => b.type === 'heading');
@@ -162,7 +159,6 @@ export default function HomePage({ page }) {
             </div>
           </div>
         </div>
-        <Marquee items={tickerItems} />
       </section>
 
 
