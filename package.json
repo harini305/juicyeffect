@@ -6,7 +6,7 @@
     "content": "node scripts/build-content.mjs",
     "images": "node scripts/optimize-images.mjs",
     "dev": "next dev",
-    "build": "node scripts/build-content.mjs && next build",
+    "build": "next build",
     "start": "next start",
     "check-routes": "node scripts/check-routes.mjs"
   },

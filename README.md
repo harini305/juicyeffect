@@ -15,7 +15,7 @@ npm run check-routes   # verifies every page, post and archive route on a runnin
 |---|---|
 | `docs/source-audit/` | Phase 1 audit (read-only source of truth) |
 | `source-assets/` | Original images, favicon and MP3 (never modified) |
-| `scripts/build-content.mjs` | Audit Markdown → `src/data/generated/*.json` (runs before `build`) |
+| `scripts/build-content.mjs` | Audit Markdown → `src/data/generated/*.json` (run `npm run content` after editing content) |
 | `scripts/optimize-images.mjs` | Originals → WebP derivatives in `public/img/` and the favicon set |
 | `src/data/site.js` | **Edit here:** contact details, hours, navigation, footer copy |
 | `src/data/offers.js` | **Edit here:** durations and prices shown in "at a glance" panels |

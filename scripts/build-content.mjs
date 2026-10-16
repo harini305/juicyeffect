@@ -468,7 +468,7 @@ for (const file of fs.readdirSync(blogDir).sort()) {
   const last = posts[posts.length - 1];
   // Same asset, or a byte-identical re-upload of the same photo.
   const firstImg = last.blocks.slice(0, 8).find((b) => b.type === 'image' && b.src);
-  const sameBytes = (a, b) => a && b && fs.statSync(path.join(ROOT, a)).size === fs.statSync(path.join(ROOT, b)).size;
+  const sameBytes = (a, b) => a && b && fs.existsSync(path.join(ROOT, a)) && fs.existsSync(path.join(ROOT, b)) && fs.statSync(path.join(ROOT, a)).size === fs.statSync(path.join(ROOT, b)).size;
   last.featuredInBody = Boolean(firstImg && (firstImg.src === last.featured || (featuredId && firstImg.assetId === featuredId) || sameBytes(firstImg.src, last.featured)));
 }
 posts.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
