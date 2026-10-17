@@ -715,3 +715,13 @@ a.pkLink:hover .pkName {
     align-self: start;
   }
 }
+
+/* Closing band + footer fill exactly one screen at the end of the page */
+@media (min-width: 1000px) {
+  .online {
+    display: grid;
+    align-content: center;
+    min-height: calc(100vh - var(--footer-h, 300px));
+    min-height: calc(100svh - var(--footer-h, 300px));
+  }
+}

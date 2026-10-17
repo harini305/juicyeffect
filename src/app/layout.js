@@ -5,6 +5,7 @@ import Footer from '@/components/site/Footer';
 import Announcement from '@/components/site/Announcement';
 import MotionController from '@/components/motion/MotionController';
 import SmoothScroll from '@/components/motion/SmoothScroll';
+import FooterHeight from '@/components/site/FooterHeight';
 import { SITE, CONTACT } from '@/data/site';
 import { PAGE_TYPES, GROUPS } from '@/data/pages';
 import { img } from '@/lib/content';
@@ -83,6 +84,7 @@ export default function RootLayout({ children }) {
         <Header logo={logoProps} sectionOf={sectionOf} />
         <main id="main">{children}</main>
         <Footer logo={logoProps} />
+        <FooterHeight />
         <SmoothScroll />
         <MotionController />
       </body>
