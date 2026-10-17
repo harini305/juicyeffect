@@ -1,4 +1,1982 @@
 {
+ "source-assets/blog/00e40f_Picture1.jpg": {
+  "w": 1855,
+  "h": 1236,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-00e40f_picture1-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-00e40f_picture1-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-00e40f_picture1-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/0194d2_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-0194d2_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-0194d2_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-0194d2_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/02495a_image-asset.png": {
+  "w": 1522,
+  "h": 1168,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-02495a_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-02495a_image-asset-960.webp"
+   },
+   {
+    "w": 1522,
+    "src": "/img/blog-02495a_image-asset-1522.webp"
+   }
+  ]
+ },
+ "source-assets/blog/041600_casey-horner-265UjRsLgd8-unsplash.jpg": {
+  "w": 2500,
+  "h": 3745,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/04ba30_yoga_at_work.jpg": {
+  "w": 204,
+  "h": 153,
+  "variants": [
+   {
+    "w": 204,
+    "src": "/img/blog-04ba30_yoga_at_work-204.webp"
+   }
+  ]
+ },
+ "source-assets/blog/06437f_overcome-fear-of-public-speaking-the-juicy-effect.jpg": {
+  "w": 837,
+  "h": 555,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-06437f_overcome-fear-of-public-speaking-the-juicy-effect-480.webp"
+   },
+   {
+    "w": 837,
+    "src": "/img/blog-06437f_overcome-fear-of-public-speaking-the-juicy-effect-837.webp"
+   }
+  ]
+ },
+ "source-assets/blog/0a7bf0_The_Heart_Brain.png": {
+  "w": 305,
+  "h": 231,
+  "variants": [
+   {
+    "w": 305,
+    "src": "/img/blog-0a7bf0_the_heart_brain-305.webp"
+   }
+  ]
+ },
+ "source-assets/blog/0bbb45_StockSnap_ABOS0HZ80P.jpg": {
+  "w": 2500,
+  "h": 1669,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-0bbb45_stocksnap_abos0hz80p-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-0bbb45_stocksnap_abos0hz80p-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-0bbb45_stocksnap_abos0hz80p-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/0bcf5a_rishabh-dharmani-IvfAs3Qk64M-unsplash.jpg": {
+  "w": 2500,
+  "h": 1593,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/0d6f6a_DEEP_OCEAN_CLEANSE.png": {
+  "w": 265,
+  "h": 153,
+  "variants": [
+   {
+    "w": 265,
+    "src": "/img/blog-0d6f6a_deep_ocean_cleanse-265.webp"
+   }
+  ]
+ },
+ "source-assets/blog/0f6235_StockSnap_GCF8Y9LWPE.jpg": {
+  "w": 2500,
+  "h": 1656,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-0f6235_stocksnap_gcf8y9lwpe-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-0f6235_stocksnap_gcf8y9lwpe-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-0f6235_stocksnap_gcf8y9lwpe-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/188229_christopher-campbell-h9Rx3zOYZws-unsplash.jpg": {
+  "w": 2500,
+  "h": 3750,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/199e6d_ante-gudelj-P-JX1Agg0Ts-unsplash.jpg": {
+  "w": 2500,
+  "h": 3750,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/1abf82_image-asset.png": {
+  "w": 1920,
+  "h": 1434,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-1abf82_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-1abf82_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-1abf82_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/1bfc6f_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1660,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-1bfc6f_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-1bfc6f_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-1bfc6f_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/1f377e_The_Juicy_Effect_Healing_Packages.png": {
+  "w": 1023,
+  "h": 1537,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-1f377e_the_juicy_effect_healing_packages-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-1f377e_the_juicy_effect_healing_packages-960.webp"
+   },
+   {
+    "w": 1023,
+    "src": "/img/blog-1f377e_the_juicy_effect_healing_packages-1023.webp"
+   }
+  ]
+ },
+ "source-assets/blog/2339e0_image-asset.png": {
+  "w": 657,
+  "h": 656,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-2339e0_image-asset-480.webp"
+   },
+   {
+    "w": 657,
+    "src": "/img/blog-2339e0_image-asset-657.webp"
+   }
+  ]
+ },
+ "source-assets/blog/2457ba_image-asset.png": {
+  "w": 800,
+  "h": 800,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-2457ba_image-asset-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/blog-2457ba_image-asset-800.webp"
+   }
+  ]
+ },
+ "source-assets/blog/2b50c0_From_overwhelm_to_Flow_-_The_Juicy_Effect.jpg": {
+  "w": 2048,
+  "h": 1365,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-2b50c0_from_overwhelm_to_flow_-_the_juicy_effect-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-2b50c0_from_overwhelm_to_flow_-_the_juicy_effect-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-2b50c0_from_overwhelm_to_flow_-_the_juicy_effect-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/2b8ef0_Kali.jpg": {
+  "w": 710,
+  "h": 960,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-2b8ef0_kali-480.webp"
+   },
+   {
+    "w": 710,
+    "src": "/img/blog-2b8ef0_kali-710.webp"
+   }
+  ]
+ },
+ "source-assets/blog/2f7ab5_WhatsApp_Image_2024-08-15_at_12.08.10_PM.jpg": {
+  "w": 1280,
+  "h": 960,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-2f7ab5_whatsapp_image_2024-08-15_at_12-08-10_pm-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-2f7ab5_whatsapp_image_2024-08-15_at_12-08-10_pm-960.webp"
+   },
+   {
+    "w": 1280,
+    "src": "/img/blog-2f7ab5_whatsapp_image_2024-08-15_at_12-08-10_pm-1280.webp"
+   }
+  ]
+ },
+ "source-assets/blog/39a34a_sasun-bughdaryan-jKIEe89BmlI-unsplash.jpg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-39a34a_sasun-bughdaryan-jkiee89bmli-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-39a34a_sasun-bughdaryan-jkiee89bmli-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-39a34a_sasun-bughdaryan-jkiee89bmli-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/3ae1ba_casey-horner-265UjRsLgd8-unsplash.jpg": {
+  "w": 2500,
+  "h": 3745,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/3d879b_1772330298563.png": {
+  "w": 300,
+  "h": 300,
+  "variants": [
+   {
+    "w": 300,
+    "src": "/img/blog-3d879b_1772330298563-300.webp"
+   }
+  ]
+ },
+ "source-assets/blog/3ee519_image-asset.png": {
+  "w": 500,
+  "h": 281,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-3ee519_image-asset-480.webp"
+   },
+   {
+    "w": 500,
+    "src": "/img/blog-3ee519_image-asset-500.webp"
+   }
+  ]
+ },
+ "source-assets/blog/3f551d_image-asset.jpeg": {
+  "w": 960,
+  "h": 720,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-3f551d_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-3f551d_image-asset-960.webp"
+   }
+  ]
+ },
+ "source-assets/blog/3f6fca_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1660,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-1bfc6f_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-1bfc6f_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-1bfc6f_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/43db93_Jelly_Fish_Picture.jpg": {
+  "w": 2500,
+  "h": 3745,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-43db93_jelly_fish_picture-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-43db93_jelly_fish_picture-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-43db93_jelly_fish_picture-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/450229_the-unconscious-mind-the-juicy-effect.jpg": {
+  "w": 2500,
+  "h": 1656,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-450229_the-unconscious-mind-the-juicy-effect-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-450229_the-unconscious-mind-the-juicy-effect-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-450229_the-unconscious-mind-the-juicy-effect-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/480ff3_womb_healing_the_juicy_effect.jfif.jpg": {
+  "w": 1365,
+  "h": 2048,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-480ff3_womb_healing_the_juicy_effect-jfif-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-480ff3_womb_healing_the_juicy_effect-jfif-960.webp"
+   },
+   {
+    "w": 1365,
+    "src": "/img/blog-480ff3_womb_healing_the_juicy_effect-jfif-1365.webp"
+   }
+  ]
+ },
+ "source-assets/blog/4d40b7_rishabh-dharmani-IvfAs3Qk64M-unsplash.jpg": {
+  "w": 2500,
+  "h": 1593,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/4dbae5_lightonandoff.png": {
+  "w": 1920,
+  "h": 1434,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-4dbae5_lightonandoff-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-4dbae5_lightonandoff-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-4dbae5_lightonandoff-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/4e125f_image-asset.png": {
+  "w": 500,
+  "h": 281,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-4e125f_image-asset-480.webp"
+   },
+   {
+    "w": 500,
+    "src": "/img/blog-4e125f_image-asset-500.webp"
+   }
+  ]
+ },
+ "source-assets/blog/57b9ca_transform_your_fear_of_public_speaking.jpg": {
+  "w": 802,
+  "h": 533,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-57b9ca_transform_your_fear_of_public_speaking-480.webp"
+   },
+   {
+    "w": 802,
+    "src": "/img/blog-57b9ca_transform_your_fear_of_public_speaking-802.webp"
+   }
+  ]
+ },
+ "source-assets/blog/5918a2_Healing_and_Empowerment.PNG": {
+  "w": 597,
+  "h": 281,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-5918a2_healing_and_empowerment-480.webp"
+   },
+   {
+    "w": 597,
+    "src": "/img/blog-5918a2_healing_and_empowerment-597.webp"
+   }
+  ]
+ },
+ "source-assets/blog/594de2_the_heart_magnetic_field.png": {
+  "w": 503,
+  "h": 322,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-594de2_the_heart_magnetic_field-480.webp"
+   },
+   {
+    "w": 503,
+    "src": "/img/blog-594de2_the_heart_magnetic_field-503.webp"
+   }
+  ]
+ },
+ "source-assets/blog/5989d6_StockSnap_85DF26645A.jpg": {
+  "w": 1920,
+  "h": 1080,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-5989d6_stocksnap_85df26645a-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-5989d6_stocksnap_85df26645a-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-5989d6_stocksnap_85df26645a-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/59e4a2_image-asset.jpeg": {
+  "w": 960,
+  "h": 640,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-59e4a2_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-59e4a2_image-asset-960.webp"
+   }
+  ]
+ },
+ "source-assets/blog/5e1159_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1656,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-5e1159_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-5e1159_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-5e1159_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/60dd58_Man_above_clouds_view.jpeg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-60dd58_man_above_clouds_view-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-60dd58_man_above_clouds_view-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-60dd58_man_above_clouds_view-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/6294df_vedic_astrology.jpg": {
+  "w": 474,
+  "h": 177,
+  "variants": [
+   {
+    "w": 474,
+    "src": "/img/blog-6294df_vedic_astrology-474.webp"
+   }
+  ]
+ },
+ "source-assets/blog/64d259_asthanga-yoga-ys-2-29.jpg": {
+  "w": 714,
+  "h": 477,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-64d259_asthanga-yoga-ys-2-29-480.webp"
+   },
+   {
+    "w": 714,
+    "src": "/img/blog-64d259_asthanga-yoga-ys-2-29-714.webp"
+   }
+  ]
+ },
+ "source-assets/blog/64fcbb_download_(1).jpg": {
+  "w": 300,
+  "h": 168,
+  "variants": [
+   {
+    "w": 300,
+    "src": "/img/blog-64fcbb_download_-1-300.webp"
+   }
+  ]
+ },
+ "source-assets/blog/6674bb_agriculture-asia-china-235648.jpg": {
+  "w": 1877,
+  "h": 1341,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-6674bb_agriculture-asia-china-235648-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-6674bb_agriculture-asia-china-235648-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-6674bb_agriculture-asia-china-235648-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/68719e_rishikesh.jpg": {
+  "w": 1170,
+  "h": 659,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-68719e_rishikesh-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-68719e_rishikesh-960.webp"
+   },
+   {
+    "w": 1170,
+    "src": "/img/blog-68719e_rishikesh-1170.webp"
+   }
+  ]
+ },
+ "source-assets/blog/692571_The_Cosmic_Womb_-_The_Juicy_Effect.jpeg": {
+  "w": 1024,
+  "h": 1536,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-692571_the_cosmic_womb_-_the_juicy_effect-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-692571_the_cosmic_womb_-_the_juicy_effect-960.webp"
+   },
+   {
+    "w": 1024,
+    "src": "/img/blog-692571_the_cosmic_womb_-_the_juicy_effect-1024.webp"
+   }
+  ]
+ },
+ "source-assets/blog/697a78_Picture_of_yin_yang.jpg": {
+  "w": 600,
+  "h": 600,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-697a78_picture_of_yin_yang-480.webp"
+   },
+   {
+    "w": 600,
+    "src": "/img/blog-697a78_picture_of_yin_yang-600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/6c42ba_Cat_2.jpg": {
+  "w": 1532,
+  "h": 2048,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-6c42ba_cat_2-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-6c42ba_cat_2-960.webp"
+   },
+   {
+    "w": 1532,
+    "src": "/img/blog-6c42ba_cat_2-1532.webp"
+   }
+  ]
+ },
+ "source-assets/blog/6d00b0_Muladhara.png": {
+  "w": 250,
+  "h": 250,
+  "variants": [
+   {
+    "w": 250,
+    "src": "/img/blog-6d00b0_muladhara-250.webp"
+   }
+  ]
+ },
+ "source-assets/blog/6e86fc_image-asset.png": {
+  "w": 275,
+  "h": 183,
+  "variants": [
+   {
+    "w": 275,
+    "src": "/img/blog-6e86fc_image-asset-275.webp"
+   }
+  ]
+ },
+ "source-assets/blog/6eb8d7_christopher-campbell-h9Rx3zOYZws-unsplash.jpg": {
+  "w": 2500,
+  "h": 3750,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/6f4dbf_The_Juicy_Effect_in_Ubud.jpg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/71eb9b_image-asset.png": {
+  "w": 720,
+  "h": 405,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-71eb9b_image-asset-480.webp"
+   },
+   {
+    "w": 720,
+    "src": "/img/blog-71eb9b_image-asset-720.webp"
+   }
+  ]
+ },
+ "source-assets/blog/7253de_StockSnap_8QQMEOXVYH.jpg": {
+  "w": 2500,
+  "h": 1979,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-7253de_stocksnap_8qqmeoxvyh-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-7253de_stocksnap_8qqmeoxvyh-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-7253de_stocksnap_8qqmeoxvyh-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/733363_image-asset.png": {
+  "w": 720,
+  "h": 405,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-733363_image-asset-480.webp"
+   },
+   {
+    "w": 720,
+    "src": "/img/blog-733363_image-asset-720.webp"
+   }
+  ]
+ },
+ "source-assets/blog/742256_image-asset.png": {
+  "w": 720,
+  "h": 405,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-742256_image-asset-480.webp"
+   },
+   {
+    "w": 720,
+    "src": "/img/blog-742256_image-asset-720.webp"
+   }
+  ]
+ },
+ "source-assets/blog/74ef7c_audio-dj-mix-63703.jpg": {
+  "w": 2100,
+  "h": 1396,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-74ef7c_audio-dj-mix-63703-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-74ef7c_audio-dj-mix-63703-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-74ef7c_audio-dj-mix-63703-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/77020d_image-asset.png": {
+  "w": 500,
+  "h": 281,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-77020d_image-asset-480.webp"
+   },
+   {
+    "w": 500,
+    "src": "/img/blog-77020d_image-asset-500.webp"
+   }
+  ]
+ },
+ "source-assets/blog/773861_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-0194d2_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-0194d2_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-0194d2_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/779d13_WhatsApp_Image_2022-11-29_at_1.28.45_PM.jpeg": {
+  "w": 1600,
+  "h": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/7c495a_person_looking_stressed_at_work2.jpg": {
+  "w": 2500,
+  "h": 1646,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-7c495a_person_looking_stressed_at_work2-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-7c495a_person_looking_stressed_at_work2-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-7c495a_person_looking_stressed_at_work2-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/7c853e_ante-gudelj-P-JX1Agg0Ts-unsplash.jpg": {
+  "w": 2500,
+  "h": 3750,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/7f00d2_the_five_juicy_elements.jpg": {
+  "w": 223,
+  "h": 206,
+  "variants": [
+   {
+    "w": 223,
+    "src": "/img/blog-7f00d2_the_five_juicy_elements-223.webp"
+   }
+  ]
+ },
+ "source-assets/blog/7f7c6b_StockSnap_P9YPEQPQ18.jpg": {
+  "w": 2500,
+  "h": 2500,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-7f7c6b_stocksnap_p9ypeqpq18-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-7f7c6b_stocksnap_p9ypeqpq18-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-7f7c6b_stocksnap_p9ypeqpq18-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/806351_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-806351_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-806351_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-806351_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/847c5f_ej-strat-5Bg44lQswps-unsplash.jpg": {
+  "w": 2500,
+  "h": 1846,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-847c5f_ej-strat-5bg44lqswps-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-847c5f_ej-strat-5bg44lqswps-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-847c5f_ej-strat-5bg44lqswps-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/881d03_1783500026751.png": {
+  "w": 300,
+  "h": 300,
+  "variants": [
+   {
+    "w": 300,
+    "src": "/img/blog-3d879b_1772330298563-300.webp"
+   }
+  ]
+ },
+ "source-assets/blog/8bc3bd_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-8bc3bd_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-8bc3bd_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-8bc3bd_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/90f0ec_Ahimsa.jpg": {
+  "w": 903,
+  "h": 600,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-90f0ec_ahimsa-480.webp"
+   },
+   {
+    "w": 903,
+    "src": "/img/blog-90f0ec_ahimsa-903.webp"
+   }
+  ]
+ },
+ "source-assets/blog/9434d7_energy_healing_eyes.jpg": {
+  "w": 297,
+  "h": 157,
+  "variants": [
+   {
+    "w": 297,
+    "src": "/img/blog-9434d7_energy_healing_eyes-297.webp"
+   }
+  ]
+ },
+ "source-assets/blog/991366_WhatsApp_Image_2022-11-29_at_1.28.45_PM.jpeg": {
+  "w": 1600,
+  "h": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/993f50_Heart_Magnetic_Field.png": {
+  "w": 310,
+  "h": 213,
+  "variants": [
+   {
+    "w": 310,
+    "src": "/img/blog-993f50_heart_magnetic_field-310.webp"
+   }
+  ]
+ },
+ "source-assets/blog/99af53_Intuitive_Heart_Guidance.png": {
+  "w": 496,
+  "h": 308,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-99af53_intuitive_heart_guidance-480.webp"
+   },
+   {
+    "w": 496,
+    "src": "/img/blog-99af53_intuitive_heart_guidance-496.webp"
+   }
+  ]
+ },
+ "source-assets/blog/99b8ee_Kali.jpg": {
+  "w": 710,
+  "h": 960,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-2b8ef0_kali-480.webp"
+   },
+   {
+    "w": 710,
+    "src": "/img/blog-2b8ef0_kali-710.webp"
+   }
+  ]
+ },
+ "source-assets/blog/9a1e53_image-asset.png": {
+  "w": 500,
+  "h": 281,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-9a1e53_image-asset-480.webp"
+   },
+   {
+    "w": 500,
+    "src": "/img/blog-9a1e53_image-asset-500.webp"
+   }
+  ]
+ },
+ "source-assets/blog/9adf4b_1650773096645.JPEG": {
+  "w": 1536,
+  "h": 2048,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-9adf4b_1650773096645-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-9adf4b_1650773096645-960.webp"
+   },
+   {
+    "w": 1536,
+    "src": "/img/blog-9adf4b_1650773096645-1536.webp"
+   }
+  ]
+ },
+ "source-assets/blog/9b16c6_portrait-child_hiding_317041_1920.jpg": {
+  "w": 1920,
+  "h": 1285,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-9b16c6_portrait-child_hiding_317041_1920-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-9b16c6_portrait-child_hiding_317041_1920-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-9b16c6_portrait-child_hiding_317041_1920-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/9bc7f8_Our_words_can_heal_another.png": {
+  "w": 1080,
+  "h": 1080,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-9bc7f8_our_words_can_heal_another-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-9bc7f8_our_words_can_heal_another-960.webp"
+   },
+   {
+    "w": 1080,
+    "src": "/img/blog-9bc7f8_our_words_can_heal_another-1080.webp"
+   }
+  ]
+ },
+ "source-assets/blog/a23436_orchestra.jpg": {
+  "w": 1720,
+  "h": 1120,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-a23436_orchestra-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-a23436_orchestra-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-a23436_orchestra-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/a27a5c_StockSnap_FT18I6U09O.jpg": {
+  "w": 2500,
+  "h": 1669,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-a27a5c_stocksnap_ft18i6u09o-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-a27a5c_stocksnap_ft18i6u09o-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-a27a5c_stocksnap_ft18i6u09o-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/a27b73_image-asset.jpeg": {
+  "w": 221,
+  "h": 229,
+  "variants": [
+   {
+    "w": 221,
+    "src": "/img/blog-a27b73_image-asset-221.webp"
+   }
+  ]
+ },
+ "source-assets/blog/a2aa94_calories-food-health-37417.jpg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-a2aa94_calories-food-health-37417-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-a2aa94_calories-food-health-37417-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-a2aa94_calories-food-health-37417-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/a402da_image-asset.png": {
+  "w": 720,
+  "h": 405,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-742256_image-asset-480.webp"
+   },
+   {
+    "w": 720,
+    "src": "/img/blog-742256_image-asset-720.webp"
+   }
+  ]
+ },
+ "source-assets/blog/a443e3_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1656,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-5e1159_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-5e1159_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-5e1159_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/a4a3bc_power_of_the_heart_-_the_juicy_effect.jpg": {
+  "w": 555,
+  "h": 412,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-a4a3bc_power_of_the_heart_-_the_juicy_effect-480.webp"
+   },
+   {
+    "w": 555,
+    "src": "/img/blog-a4a3bc_power_of_the_heart_-_the_juicy_effect-555.webp"
+   }
+  ]
+ },
+ "source-assets/blog/a4c65e_nasa-vhSz50AaFAs-unsplash.jpg": {
+  "w": 2500,
+  "h": 1875,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-a4c65e_nasa-vhsz50aafas-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-a4c65e_nasa-vhsz50aafas-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-a4c65e_nasa-vhsz50aafas-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/aaaf80_embracing-fear-the-juicy-effect.jpg": {
+  "w": 2500,
+  "h": 1666,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-aaaf80_embracing-fear-the-juicy-effect-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-aaaf80_embracing-fear-the-juicy-effect-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-aaaf80_embracing-fear-the-juicy-effect-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/aae2f4_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-aae2f4_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-aae2f4_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-aae2f4_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/ab1e42_StockSnap_ENKNXE2NAM.jpg": {
+  "w": 2500,
+  "h": 1673,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-ab1e42_stocksnap_enknxe2nam-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-ab1e42_stocksnap_enknxe2nam-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-ab1e42_stocksnap_enknxe2nam-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/ad5496_image-asset.jpeg": {
+  "w": 1075,
+  "h": 716,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-ad5496_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-ad5496_image-asset-960.webp"
+   },
+   {
+    "w": 1075,
+    "src": "/img/blog-ad5496_image-asset-1075.webp"
+   }
+  ]
+ },
+ "source-assets/blog/ae540d_image-asset.png": {
+  "w": 720,
+  "h": 405,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-ae540d_image-asset-480.webp"
+   },
+   {
+    "w": 720,
+    "src": "/img/blog-ae540d_image-asset-720.webp"
+   }
+  ]
+ },
+ "source-assets/blog/b359e2_squeeze.jpg": {
+  "w": 2456,
+  "h": 1857,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-b359e2_squeeze-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-b359e2_squeeze-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-b359e2_squeeze-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/b43a65_martin-sanchez-396165-unsplash.jpg": {
+  "w": 2048,
+  "h": 1365,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-b43a65_martin-sanchez-396165-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-b43a65_martin-sanchez-396165-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-b43a65_martin-sanchez-396165-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/b4d78d_Immune-system_the_juicy_effect.jpg": {
+  "w": 895,
+  "h": 590,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-b4d78d_immune-system_the_juicy_effect-480.webp"
+   },
+   {
+    "w": 895,
+    "src": "/img/blog-b4d78d_immune-system_the_juicy_effect-895.webp"
+   }
+  ]
+ },
+ "source-assets/blog/b7457f_sharon_guided_meditation.PNG": {
+  "w": 727,
+  "h": 406,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-b7457f_sharon_guided_meditation-480.webp"
+   },
+   {
+    "w": 727,
+    "src": "/img/blog-b7457f_sharon_guided_meditation-727.webp"
+   }
+  ]
+ },
+ "source-assets/blog/b9dce1_Sharon_new_building_3.jpg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/be184c_2ts5hna67k8-matthew-henry.jpg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-be184c_2ts5hna67k8-matthew-henry-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-be184c_2ts5hna67k8-matthew-henry-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-be184c_2ts5hna67k8-matthew-henry-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/c0ada5_t-d-hm5BUrBTa68-unsplash.jpg": {
+  "w": 2500,
+  "h": 1836,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-c0ada5_t-d-hm5burbta68-unsplash-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-c0ada5_t-d-hm5burbta68-unsplash-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-c0ada5_t-d-hm5burbta68-unsplash-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/c1aa19_image-asset.png": {
+  "w": 720,
+  "h": 405,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-c1aa19_image-asset-480.webp"
+   },
+   {
+    "w": 720,
+    "src": "/img/blog-c1aa19_image-asset-720.webp"
+   }
+  ]
+ },
+ "source-assets/blog/c37db0_image-asset.jpeg": {
+  "w": 1308,
+  "h": 798,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-c37db0_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-c37db0_image-asset-960.webp"
+   },
+   {
+    "w": 1308,
+    "src": "/img/blog-c37db0_image-asset-1308.webp"
+   }
+  ]
+ },
+ "source-assets/blog/c54179_image-asset.png": {
+  "w": 500,
+  "h": 281,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-c54179_image-asset-480.webp"
+   },
+   {
+    "w": 500,
+    "src": "/img/blog-c54179_image-asset-500.webp"
+   }
+  ]
+ },
+ "source-assets/blog/c7a672_overcoming_fear_is_possible_the_juicy_effect.jpg": {
+  "w": 1920,
+  "h": 1280,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-c7a672_overcoming_fear_is_possible_the_juicy_effect-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-c7a672_overcoming_fear_is_possible_the_juicy_effect-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-c7a672_overcoming_fear_is_possible_the_juicy_effect-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/c7ef4e_StockSnap_POQ7B631M3.jpg": {
+  "w": 2000,
+  "h": 1335,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-c7ef4e_stocksnap_poq7b631m3-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-c7ef4e_stocksnap_poq7b631m3-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-c7ef4e_stocksnap_poq7b631m3-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/c9189c_WhatsApp_Image_2022-11-29_at_1.28.44_PM.jpeg": {
+  "w": 1600,
+  "h": 1200,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-c9189c_whatsapp_image_2022-11-29_at_1-28-44_pm-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-c9189c_whatsapp_image_2022-11-29_at_1-28-44_pm-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-c9189c_whatsapp_image_2022-11-29_at_1-28-44_pm-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/cb5939_ebgr1szj3dg-idriss-fettoul.jpg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-cb5939_ebgr1szj3dg-idriss-fettoul-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-cb5939_ebgr1szj3dg-idriss-fettoul-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-cb5939_ebgr1szj3dg-idriss-fettoul-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/cc6555_Energetic_Expansion_The_Juicy_Effect_in_Ubud.jpg": {
+  "w": 1280,
+  "h": 960,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-960.webp"
+   },
+   {
+    "w": 1280,
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-1280.webp"
+   }
+  ]
+ },
+ "source-assets/blog/ce6a35_calories-food-health-37417.jpg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-ce6a35_calories-food-health-37417-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-ce6a35_calories-food-health-37417-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-ce6a35_calories-food-health-37417-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/cf14fe_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-aae2f4_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-aae2f4_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-aae2f4_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/cfc522_image-asset.png": {
+  "w": 720,
+  "h": 405,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-cfc522_image-asset-480.webp"
+   },
+   {
+    "w": 720,
+    "src": "/img/blog-cfc522_image-asset-720.webp"
+   }
+  ]
+ },
+ "source-assets/blog/d3eb0a_image-asset.png": {
+  "w": 720,
+  "h": 405,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-d3eb0a_image-asset-480.webp"
+   },
+   {
+    "w": 720,
+    "src": "/img/blog-d3eb0a_image-asset-720.webp"
+   }
+  ]
+ },
+ "source-assets/blog/d67e20_image-asset.jpeg": {
+  "w": 1280,
+  "h": 883,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-d67e20_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-d67e20_image-asset-960.webp"
+   },
+   {
+    "w": 1280,
+    "src": "/img/blog-d67e20_image-asset-1280.webp"
+   }
+  ]
+ },
+ "source-assets/blog/db31ae_DSCF0841.JPG": {
+  "w": 2500,
+  "h": 3750,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-db31ae_dscf0841-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-db31ae_dscf0841-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-db31ae_dscf0841-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/db8f99_image-asset.png": {
+  "w": 631,
+  "h": 358,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-db8f99_image-asset-480.webp"
+   },
+   {
+    "w": 631,
+    "src": "/img/blog-db8f99_image-asset-631.webp"
+   }
+  ]
+ },
+ "source-assets/blog/e1a5d1_hero-journey.png": {
+  "w": 1500,
+  "h": 1018,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-e1a5d1_hero-journey-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-e1a5d1_hero-journey-960.webp"
+   },
+   {
+    "w": 1500,
+    "src": "/img/blog-e1a5d1_hero-journey-1500.webp"
+   }
+  ]
+ },
+ "source-assets/blog/e28b53_image-asset.jpeg": {
+  "w": 1280,
+  "h": 883,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-d67e20_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-d67e20_image-asset-960.webp"
+   },
+   {
+    "w": 1280,
+    "src": "/img/blog-d67e20_image-asset-1280.webp"
+   }
+  ]
+ },
+ "source-assets/blog/ec5d91_image-asset.jpeg": {
+  "w": 2500,
+  "h": 1578,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-ec5d91_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-ec5d91_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-ec5d91_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/ef28ab_image-asset.jpeg": {
+  "w": 1667,
+  "h": 1224,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-ef28ab_image-asset-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-ef28ab_image-asset-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-ef28ab_image-asset-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/ef75c1_pexels-stas-knop-1194723.jpg": {
+  "w": 2500,
+  "h": 1667,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-ef75c1_pexels-stas-knop-1194723-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-ef75c1_pexels-stas-knop-1194723-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/blog-ef75c1_pexels-stas-knop-1194723-1600.webp"
+   }
+  ]
+ },
+ "source-assets/blog/f16ef5_WG_FWC_Heros-Journey_v2.jpg": {
+  "w": 1170,
+  "h": 1130,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-f16ef5_wg_fwc_heros-journey_v2-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-f16ef5_wg_fwc_heros-journey_v2-960.webp"
+   },
+   {
+    "w": 1170,
+    "src": "/img/blog-f16ef5_wg_fwc_heros-journey_v2-1170.webp"
+   }
+  ]
+ },
+ "source-assets/blog/f1dcee_ancestral_healing.PNG": {
+  "w": 225,
+  "h": 128,
+  "variants": [
+   {
+    "w": 225,
+    "src": "/img/blog-f1dcee_ancestral_healing-225.webp"
+   }
+  ]
+ },
+ "source-assets/blog/f28a64_THISPO_1.PNG": {
+  "w": 1080,
+  "h": 1080,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/blog-f28a64_thispo_1-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/blog-f28a64_thispo_1-960.webp"
+   },
+   {
+    "w": 1080,
+    "src": "/img/blog-f28a64_thispo_1-1080.webp"
+   }
+  ]
+ },
+ "source-assets/brand/7fd1e9_TheJuicyEffect_part_logo.png": {
+  "w": 2500,
+  "h": 2089,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/brand-7fd1e9_thejuicyeffect_part_logo-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/brand-7fd1e9_thejuicyeffect_part_logo-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/brand-7fd1e9_thejuicyeffect_part_logo-1600.webp"
+   }
+  ]
+ },
+ "source-assets/brand/favicon.ico": {
+  "w": 2500,
+  "h": 2219,
+  "variants": [
+   {
+    "w": 480,
+    "src": "/img/brand-favicon-480.webp"
+   },
+   {
+    "w": 960,
+    "src": "/img/brand-favicon-960.webp"
+   },
+   {
+    "w": 1600,
+    "src": "/img/brand-favicon-1600.webp"
+   }
+  ]
+ },
  "source-assets/pages/021053_The_Juicy_Effect_Healing_(17).png": {
   "w": 1080,
   "h": 1080,
@@ -86,10 +2064,6 @@
    {
     "w": 1600,
     "src": "/img/pages-095380_rent_premium_space_in_ubud_at_the_juicy_effect-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-095380_rent_premium_space_in_ubud_at_the_juicy_effect-2200.webp"
    }
   ]
  },
@@ -228,10 +2202,6 @@
    {
     "w": 1600,
     "src": "/img/pages-2787ea_the_juicy_effect_wellbeing_healing_in_ubud-1600.webp"
-   },
-   {
-    "w": 1726,
-    "src": "/img/pages-2787ea_the_juicy_effect_wellbeing_healing_in_ubud-1726.webp"
    }
   ]
  },
@@ -340,10 +2310,6 @@
    {
     "w": 1600,
     "src": "/img/pages-35b2ad_imgg-demo-vqfymkww-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-35b2ad_imgg-demo-vqfymkww-2200.webp"
    }
   ]
  },
@@ -394,10 +2360,6 @@
    {
     "w": 1600,
     "src": "/img/pages-3b423e_breathwork_workshop_at_the_juicy_effect-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-3b423e_breathwork_workshop_at_the_juicy_effect-2200.webp"
    }
   ]
  },
@@ -435,15 +2397,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-3d57b4_whatsapp_image_2024-08-15_at_12-07-10_pm-480.webp"
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-3d57b4_whatsapp_image_2024-08-15_at_12-07-10_pm-960.webp"
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-960.webp"
    },
    {
     "w": 1280,
-    "src": "/img/pages-3d57b4_whatsapp_image_2024-08-15_at_12-07-10_pm-1280.webp"
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-1280.webp"
    }
   ]
  },
@@ -453,15 +2415,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-3f9b68_the_juicy_effect_healing_-26-480.webp"
+    "src": "/img/pages-16bc11_womb_healing_immersion_package-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-3f9b68_the_juicy_effect_healing_-26-960.webp"
+    "src": "/img/pages-16bc11_womb_healing_immersion_package-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-3f9b68_the_juicy_effect_healing_-26-1080.webp"
+    "src": "/img/pages-16bc11_womb_healing_immersion_package-1080.webp"
    }
   ]
  },
@@ -489,15 +2451,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-405255_website_images_round-480.webp"
+    "src": "/img/pages-2578ac_the_juicy_effect_healing_-10-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-405255_website_images_round-960.webp"
+    "src": "/img/pages-2578ac_the_juicy_effect_healing_-10-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-405255_website_images_round-1080.webp"
+    "src": "/img/pages-2578ac_the_juicy_effect_healing_-10-1080.webp"
    }
   ]
  },
@@ -552,10 +2514,6 @@
    {
     "w": 1600,
     "src": "/img/pages-41ce31_whatsapp_image_2024-08-22_at_9-50-51_am-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-41ce31_whatsapp_image_2024-08-22_at_9-50-51_am-2200.webp"
    }
   ]
  },
@@ -606,10 +2564,6 @@
    {
     "w": 1600,
     "src": "/img/pages-48e9ff_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-48e9ff_image-asset-2200.webp"
    }
   ]
  },
@@ -664,10 +2618,6 @@
    {
     "w": 1600,
     "src": "/img/pages-53a174_shamanic_soul_retrieval_with_sharon-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-53a174_shamanic_soul_retrieval_with_sharon-2200.webp"
    }
   ]
  },
@@ -677,15 +2627,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-57cd6c_image-asset-480.webp"
+    "src": "/img/pages-529714_the_juicy_effect_healing_-18-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-57cd6c_image-asset-960.webp"
+    "src": "/img/pages-529714_the_juicy_effect_healing_-18-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-57cd6c_image-asset-1080.webp"
+    "src": "/img/pages-529714_the_juicy_effect_healing_-18-1080.webp"
    }
   ]
  },
@@ -704,10 +2654,6 @@
    {
     "w": 1600,
     "src": "/img/pages-5d21be_dscf0804-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-5d21be_dscf0804-2200.webp"
    }
   ]
  },
@@ -717,15 +2663,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-616f1e_website_images_round_-31-480.webp"
+    "src": "/img/pages-021053_the_juicy_effect_healing_-17-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-616f1e_website_images_round_-31-960.webp"
+    "src": "/img/pages-021053_the_juicy_effect_healing_-17-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-616f1e_website_images_round_-31-1080.webp"
+    "src": "/img/pages-021053_the_juicy_effect_healing_-17-1080.webp"
    }
   ]
  },
@@ -763,15 +2709,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-637864_the_next_chapter_personal_retreat-480.webp"
+    "src": "/img/pages-6231df_the_next_chapter_personal_retreat-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-637864_the_next_chapter_personal_retreat-960.webp"
+    "src": "/img/pages-6231df_the_next_chapter_personal_retreat-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-637864_the_next_chapter_personal_retreat-1080.webp"
+    "src": "/img/pages-6231df_the_next_chapter_personal_retreat-1080.webp"
    }
   ]
  },
@@ -790,10 +2736,6 @@
    {
     "w": 1600,
     "src": "/img/pages-63d594_dscf0837-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-63d594_dscf0837-2200.webp"
    }
   ]
  },
@@ -849,15 +2791,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-6b5410_the_juicy_effect_healing_-26-480.webp"
+    "src": "/img/pages-16bc11_womb_healing_immersion_package-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-6b5410_the_juicy_effect_healing_-26-960.webp"
+    "src": "/img/pages-16bc11_womb_healing_immersion_package-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-6b5410_the_juicy_effect_healing_-26-1080.webp"
+    "src": "/img/pages-16bc11_womb_healing_immersion_package-1080.webp"
    }
   ]
  },
@@ -917,15 +2859,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-700bc2_medical_astrology_at_the_juicy_effect-480.webp"
+    "src": "/img/pages-529714_the_juicy_effect_healing_-18-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-700bc2_medical_astrology_at_the_juicy_effect-960.webp"
+    "src": "/img/pages-529714_the_juicy_effect_healing_-18-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-700bc2_medical_astrology_at_the_juicy_effect-1080.webp"
+    "src": "/img/pages-529714_the_juicy_effect_healing_-18-1080.webp"
    }
   ]
  },
@@ -953,7 +2895,7 @@
   "variants": [
    {
     "w": 320,
-    "src": "/img/pages-726387_gita_is_a_wellbeing_practitioner_at_the_juicy_effect-320.webp"
+    "src": "/img/pages-61c7f0_brown_and_light_brown_circle_framed_instagram_profile_picture-320.webp"
    }
   ]
  },
@@ -982,10 +2924,6 @@
    {
     "w": 1600,
     "src": "/img/pages-74bc42_rent_our_jungle-view_rooms_in_ubud_at_the_juicy_effect-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-74bc42_rent_our_jungle-view_rooms_in_ubud_at_the_juicy_effect-2200.webp"
    }
   ]
  },
@@ -995,15 +2933,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-753fa7_distance_healing_the_juicy_effect-480.webp"
+    "src": "/img/pages-08de44_the_juicy_effect_healing_-7-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-753fa7_distance_healing_the_juicy_effect-960.webp"
+    "src": "/img/pages-08de44_the_juicy_effect_healing_-7-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-753fa7_distance_healing_the_juicy_effect-1080.webp"
+    "src": "/img/pages-08de44_the_juicy_effect_healing_-7-1080.webp"
    }
   ]
  },
@@ -1081,15 +3019,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-84e14d_website_images_round_-10-480.webp"
+    "src": "/img/pages-37c8c1_the_juicy_effect_healing_-15-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-84e14d_website_images_round_-10-960.webp"
+    "src": "/img/pages-37c8c1_the_juicy_effect_healing_-15-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-84e14d_website_images_round_-10-1080.webp"
+    "src": "/img/pages-37c8c1_the_juicy_effect_healing_-15-1080.webp"
    }
   ]
  },
@@ -1099,11 +3037,11 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-86f313_julia_access_bars_at_the_juicy_effect-480.webp"
+    "src": "/img/pages-6fb837_julia_practitioner_at_the_juicy_effect-480.webp"
    },
    {
     "w": 500,
-    "src": "/img/pages-86f313_julia_access_bars_at_the_juicy_effect-500.webp"
+    "src": "/img/pages-6fb837_julia_practitioner_at_the_juicy_effect-500.webp"
    }
   ]
  },
@@ -1113,15 +3051,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-88265d_the_juicy_effect_healing_-_start_your_next_chapter-480.webp"
+    "src": "/img/pages-2a1bd0_the_juicy_effect_healing_-_start_your_next_chapter-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-88265d_the_juicy_effect_healing_-_start_your_next_chapter-960.webp"
+    "src": "/img/pages-2a1bd0_the_juicy_effect_healing_-_start_your_next_chapter-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-88265d_the_juicy_effect_healing_-_start_your_next_chapter-1080.webp"
+    "src": "/img/pages-2a1bd0_the_juicy_effect_healing_-_start_your_next_chapter-1080.webp"
    }
   ]
  },
@@ -1172,10 +3110,6 @@
    {
     "w": 1600,
     "src": "/img/pages-8e5a5b_rent_wellbeing_space_in_ubud-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-8e5a5b_rent_wellbeing_space_in_ubud-2200.webp"
    }
   ]
  },
@@ -1203,19 +3137,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-8fb53c_womb_healing_immersion-480.webp"
+    "src": "/img/pages-63d594_dscf0837-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-8fb53c_womb_healing_immersion-960.webp"
+    "src": "/img/pages-63d594_dscf0837-960.webp"
    },
    {
     "w": 1600,
-    "src": "/img/pages-8fb53c_womb_healing_immersion-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-8fb53c_womb_healing_immersion-2200.webp"
+    "src": "/img/pages-63d594_dscf0837-1600.webp"
    }
   ]
  },
@@ -1234,10 +3164,6 @@
    {
     "w": 1600,
     "src": "/img/pages-8ff876_whatsapp_image_2024-08-22_at_9-50-50_am-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-8ff876_whatsapp_image_2024-08-22_at_9-50-50_am-2200.webp"
    }
   ]
  },
@@ -1283,15 +3209,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-955187_the_next_chapter_personal_retreat-480.webp"
+    "src": "/img/pages-6231df_the_next_chapter_personal_retreat-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-955187_the_next_chapter_personal_retreat-960.webp"
+    "src": "/img/pages-6231df_the_next_chapter_personal_retreat-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-955187_the_next_chapter_personal_retreat-1080.webp"
+    "src": "/img/pages-6231df_the_next_chapter_personal_retreat-1080.webp"
    }
   ]
  },
@@ -1328,10 +3254,6 @@
    {
     "w": 1600,
     "src": "/img/pages-96ccfc_energetic_facelift-1600.webp"
-   },
-   {
-    "w": 1800,
-    "src": "/img/pages-96ccfc_energetic_facelift-1800.webp"
    }
   ]
  },
@@ -1341,15 +3263,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-970785_private_sound_therapy-480.webp"
+    "src": "/img/pages-41c3b1_private_sound_therapy-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-970785_private_sound_therapy-960.webp"
+    "src": "/img/pages-41c3b1_private_sound_therapy-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-970785_private_sound_therapy-1080.webp"
+    "src": "/img/pages-41c3b1_private_sound_therapy-1080.webp"
    }
   ]
  },
@@ -1359,15 +3281,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-980246_discover_yourself_astrology_-_the_juicy_effect-480.webp"
+    "src": "/img/pages-6d493b_the_juicy_effect_healing_-16-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-980246_discover_yourself_astrology_-_the_juicy_effect-960.webp"
+    "src": "/img/pages-6d493b_the_juicy_effect_healing_-16-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-980246_discover_yourself_astrology_-_the_juicy_effect-1080.webp"
+    "src": "/img/pages-6d493b_the_juicy_effect_healing_-16-1080.webp"
    }
   ]
  },
@@ -1395,15 +3317,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-9ba5e1_soulmate_hypnotherapy_package_at_the_juicy_effect-480.webp"
+    "src": "/img/pages-468356_the_juicy_effect_healing_-4-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-9ba5e1_soulmate_hypnotherapy_package_at_the_juicy_effect-960.webp"
+    "src": "/img/pages-468356_the_juicy_effect_healing_-4-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-9ba5e1_soulmate_hypnotherapy_package_at_the_juicy_effect-1080.webp"
+    "src": "/img/pages-468356_the_juicy_effect_healing_-4-1080.webp"
    }
   ]
  },
@@ -1413,15 +3335,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-9d458e_the_medicine_path_shamanic_mentoring_program_the_juicy_effect-480.webp"
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-9d458e_the_medicine_path_shamanic_mentoring_program_the_juicy_effect-960.webp"
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-960.webp"
    },
    {
     "w": 1280,
-    "src": "/img/pages-9d458e_the_medicine_path_shamanic_mentoring_program_the_juicy_effect-1280.webp"
+    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-1280.webp"
    }
   ]
  },
@@ -1467,15 +3389,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-a76f34_the_juicy_effect_healing_-14-480.webp"
+    "src": "/img/pages-988f35_website_images_round-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-a76f34_the_juicy_effect_healing_-14-960.webp"
+    "src": "/img/pages-988f35_website_images_round-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-a76f34_the_juicy_effect_healing_-14-1080.webp"
+    "src": "/img/pages-988f35_website_images_round-1080.webp"
    }
   ]
  },
@@ -1494,10 +3416,6 @@
    {
     "w": 1600,
     "src": "/img/pages-a90ed2_sharon_and_ganesh_-1-1600.webp"
-   },
-   {
-    "w": 2187,
-    "src": "/img/pages-a90ed2_sharon_and_ganesh_-1-2187.webp"
    }
   ]
  },
@@ -1552,10 +3470,6 @@
    {
     "w": 1600,
     "src": "/img/pages-ac4598_the_juicy_effect_offers_energy_healing_sessions-1600.webp"
-   },
-   {
-    "w": 1667,
-    "src": "/img/pages-ac4598_the_juicy_effect_offers_energy_healing_sessions-1667.webp"
    }
   ]
  },
@@ -1574,10 +3488,6 @@
    {
     "w": 1600,
     "src": "/img/pages-ac8b04_visit_the_team_at_the_juicy_effect-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-ac8b04_visit_the_team_at_the_juicy_effect-2200.webp"
    }
   ]
  },
@@ -1587,15 +3497,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-ac8d13_activate_your_voice_package_the_juicy_effect-480.webp"
+    "src": "/img/pages-693d0e_activate_your_voice_package_-_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-ac8d13_activate_your_voice_package_the_juicy_effect-960.webp"
+    "src": "/img/pages-693d0e_activate_your_voice_package_-_the_juicy_effect-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-ac8d13_activate_your_voice_package_the_juicy_effect-1080.webp"
+    "src": "/img/pages-693d0e_activate_your_voice_package_-_the_juicy_effect-1080.webp"
    }
   ]
  },
@@ -1614,10 +3524,6 @@
    {
     "w": 1600,
     "src": "/img/pages-adc07a_julia_is_our_access_bars_practitioner_in_ubud-1600.webp"
-   },
-   {
-    "w": 2048,
-    "src": "/img/pages-adc07a_julia_is_our_access_bars_practitioner_in_ubud-2048.webp"
    }
   ]
  },
@@ -1627,15 +3533,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-af3221_hat_s_how_you_do_it_-4-480.webp"
+    "src": "/img/pages-032e5a_the_juicy_effect_healing_-3-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-af3221_hat_s_how_you_do_it_-4-960.webp"
+    "src": "/img/pages-032e5a_the_juicy_effect_healing_-3-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-af3221_hat_s_how_you_do_it_-4-1080.webp"
+    "src": "/img/pages-032e5a_the_juicy_effect_healing_-3-1080.webp"
    }
   ]
  },
@@ -1645,15 +3551,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-b00a4b_transformational_healing_package_at_the_juicy_effect-480.webp"
+    "src": "/img/pages-021053_the_juicy_effect_healing_-17-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-b00a4b_transformational_healing_package_at_the_juicy_effect-960.webp"
+    "src": "/img/pages-021053_the_juicy_effect_healing_-17-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-b00a4b_transformational_healing_package_at_the_juicy_effect-1080.webp"
+    "src": "/img/pages-021053_the_juicy_effect_healing_-17-1080.webp"
    }
   ]
  },
@@ -1663,15 +3569,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-b3136a_meet_jhaana_at_the_juicy_effect-480.webp"
+    "src": "/img/pages-9e32ff_jhaanavikaa_at_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-b3136a_meet_jhaana_at_the_juicy_effect-960.webp"
+    "src": "/img/pages-9e32ff_jhaanavikaa_at_the_juicy_effect-960.webp"
    },
    {
     "w": 1560,
-    "src": "/img/pages-b3136a_meet_jhaana_at_the_juicy_effect-1560.webp"
+    "src": "/img/pages-9e32ff_jhaanavikaa_at_the_juicy_effect-1560.webp"
    }
   ]
  },
@@ -1717,15 +3623,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-beb824_hat_s_how_you_do_it_-5-480.webp"
+    "src": "/img/pages-468356_the_juicy_effect_healing_-4-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-beb824_hat_s_how_you_do_it_-5-960.webp"
+    "src": "/img/pages-468356_the_juicy_effect_healing_-4-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-beb824_hat_s_how_you_do_it_-5-1080.webp"
+    "src": "/img/pages-468356_the_juicy_effect_healing_-4-1080.webp"
    }
   ]
  },
@@ -1781,15 +3687,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-c6f6eb_the_juicy_effect_healing_-22-480.webp"
+    "src": "/img/pages-693d0e_activate_your_voice_package_-_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-c6f6eb_the_juicy_effect_healing_-22-960.webp"
+    "src": "/img/pages-693d0e_activate_your_voice_package_-_the_juicy_effect-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-c6f6eb_the_juicy_effect_healing_-22-1080.webp"
+    "src": "/img/pages-693d0e_activate_your_voice_package_-_the_juicy_effect-1080.webp"
    }
   ]
  },
@@ -1799,15 +3705,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-c73914_energy_mastery_empowerment_course-480.webp"
+    "src": "/img/pages-8ec115_energy_mastery_empowerment_program_-_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-c73914_energy_mastery_empowerment_course-960.webp"
+    "src": "/img/pages-8ec115_energy_mastery_empowerment_program_-_the_juicy_effect-960.webp"
    },
    {
     "w": 1600,
-    "src": "/img/pages-c73914_energy_mastery_empowerment_course-1600.webp"
+    "src": "/img/pages-8ec115_energy_mastery_empowerment_program_-_the_juicy_effect-1600.webp"
    }
   ]
  },
@@ -1817,11 +3723,11 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-cd5207_untitled_design-480.webp"
+    "src": "/img/pages-6fb837_julia_practitioner_at_the_juicy_effect-480.webp"
    },
    {
     "w": 500,
-    "src": "/img/pages-cd5207_untitled_design-500.webp"
+    "src": "/img/pages-6fb837_julia_practitioner_at_the_juicy_effect-500.webp"
    }
   ]
  },
@@ -1840,10 +3746,6 @@
    {
     "w": 1600,
     "src": "/img/pages-ce9934_img_9945-1600.webp"
-   },
-   {
-    "w": 1619,
-    "src": "/img/pages-ce9934_img_9945-1619.webp"
    }
   ]
  },
@@ -1880,10 +3782,6 @@
    {
     "w": 1600,
     "src": "/img/pages-d4db54_sharon_and_ganesh-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-d4db54_sharon_and_ganesh-2200.webp"
    }
   ]
  },
@@ -1893,15 +3791,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-d98c58_the_juicy_effect_healing_-9-480.webp"
+    "src": "/img/pages-70b5c7_website_images_round_-1-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-d98c58_the_juicy_effect_healing_-9-960.webp"
+    "src": "/img/pages-70b5c7_website_images_round_-1-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-d98c58_the_juicy_effect_healing_-9-1080.webp"
+    "src": "/img/pages-70b5c7_website_images_round_-1-1080.webp"
    }
   ]
  },
@@ -1920,10 +3818,6 @@
    {
     "w": 1600,
     "src": "/img/pages-d9acde_the_juicy_effect_team-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-d9acde_the_juicy_effect_team-2200.webp"
    }
   ]
  },
@@ -1933,7 +3827,7 @@
   "variants": [
    {
     "w": 320,
-    "src": "/img/pages-e43063_gita_experienced_breathwork_practitioner_the_juicy_effect-320.webp"
+    "src": "/img/pages-61c7f0_brown_and_light_brown_circle_framed_instagram_profile_picture-320.webp"
    }
   ]
  },
@@ -1943,15 +3837,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-e505c3_ayurvedic_lifestyle_plan_-_the_juicy_effect-480.webp"
+    "src": "/img/pages-96bb80_ayurvedic_lifestyle_package_at_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-e505c3_ayurvedic_lifestyle_plan_-_the_juicy_effect-960.webp"
+    "src": "/img/pages-96bb80_ayurvedic_lifestyle_package_at_the_juicy_effect-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-e505c3_ayurvedic_lifestyle_plan_-_the_juicy_effect-1080.webp"
+    "src": "/img/pages-96bb80_ayurvedic_lifestyle_package_at_the_juicy_effect-1080.webp"
    }
   ]
  },
@@ -1961,15 +3855,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-e5c7bc_the_juicy_effect_healing-480.webp"
+    "src": "/img/pages-887af8_hypnotherapy_packages_at_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-e5c7bc_the_juicy_effect_healing-960.webp"
+    "src": "/img/pages-887af8_hypnotherapy_packages_at_the_juicy_effect-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-e5c7bc_the_juicy_effect_healing-1080.webp"
+    "src": "/img/pages-887af8_hypnotherapy_packages_at_the_juicy_effect-1080.webp"
    }
   ]
  },
@@ -1979,15 +3873,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-eda8e2_image-asset-480.webp"
+    "src": "/img/pages-ab2b07_reiki_healing_-_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-eda8e2_image-asset-960.webp"
+    "src": "/img/pages-ab2b07_reiki_healing_-_the_juicy_effect-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-eda8e2_image-asset-1080.webp"
+    "src": "/img/pages-ab2b07_reiki_healing_-_the_juicy_effect-1080.webp"
    }
   ]
  },
@@ -2015,19 +3909,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-f52b9d_meet_the_juicy_effect_team-480.webp"
+    "src": "/img/pages-ac8b04_visit_the_team_at_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-f52b9d_meet_the_juicy_effect_team-960.webp"
+    "src": "/img/pages-ac8b04_visit_the_team_at_the_juicy_effect-960.webp"
    },
    {
     "w": 1600,
-    "src": "/img/pages-f52b9d_meet_the_juicy_effect_team-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/pages-f52b9d_meet_the_juicy_effect_team-2200.webp"
+    "src": "/img/pages-ac8b04_visit_the_team_at_the_juicy_effect-1600.webp"
    }
   ]
  },
@@ -2037,15 +3927,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-f6d385_hat_s_how_you_do_it_-2-480.webp"
+    "src": "/img/pages-887af8_hypnotherapy_packages_at_the_juicy_effect-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-f6d385_hat_s_how_you_do_it_-2-960.webp"
+    "src": "/img/pages-887af8_hypnotherapy_packages_at_the_juicy_effect-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-f6d385_hat_s_how_you_do_it_-2-1080.webp"
+    "src": "/img/pages-887af8_hypnotherapy_packages_at_the_juicy_effect-1080.webp"
    }
   ]
  },
@@ -2055,15 +3945,15 @@
   "variants": [
    {
     "w": 480,
-    "src": "/img/pages-f7ab77_website_images_round_-12-480.webp"
+    "src": "/img/pages-08de44_the_juicy_effect_healing_-7-480.webp"
    },
    {
     "w": 960,
-    "src": "/img/pages-f7ab77_website_images_round_-12-960.webp"
+    "src": "/img/pages-08de44_the_juicy_effect_healing_-7-960.webp"
    },
    {
     "w": 1080,
-    "src": "/img/pages-f7ab77_website_images_round_-12-1080.webp"
+    "src": "/img/pages-08de44_the_juicy_effect_healing_-7-1080.webp"
    }
   ]
  },
@@ -2128,3672 +4018,6 @@
    {
     "w": 1080,
     "src": "/img/pages-ffd4e3_womb_sovereign_personal_retreat-1080.webp"
-   }
-  ]
- },
- "source-assets/blog/006295_Muladhara.png": {
-  "w": 250,
-  "h": 250,
-  "variants": [
-   {
-    "w": 250,
-    "src": "/img/blog-006295_muladhara-250.webp"
-   }
-  ]
- },
- "source-assets/blog/00e40f_Picture1.jpg": {
-  "w": 1855,
-  "h": 1236,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-00e40f_picture1-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-00e40f_picture1-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-00e40f_picture1-1600.webp"
-   },
-   {
-    "w": 1855,
-    "src": "/img/blog-00e40f_picture1-1855.webp"
-   }
-  ]
- },
- "source-assets/blog/017183_1772330298583.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-017183_1772330298583-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-017183_1772330298583-720.webp"
-   }
-  ]
- },
- "source-assets/blog/0194d2_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-0194d2_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-0194d2_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-0194d2_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-0194d2_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/02495a_image-asset.png": {
-  "w": 1522,
-  "h": 1168,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-02495a_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-02495a_image-asset-960.webp"
-   },
-   {
-    "w": 1522,
-    "src": "/img/blog-02495a_image-asset-1522.webp"
-   }
-  ]
- },
- "source-assets/blog/041600_casey-horner-265UjRsLgd8-unsplash.jpg": {
-  "w": 2500,
-  "h": 3745,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-041600_casey-horner-265ujrslgd8-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/045f96_1772330298527.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-045f96_1772330298527-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-045f96_1772330298527-720.webp"
-   }
-  ]
- },
- "source-assets/blog/04ba30_yoga_at_work.jpg": {
-  "w": 204,
-  "h": 153,
-  "variants": [
-   {
-    "w": 204,
-    "src": "/img/blog-04ba30_yoga_at_work-204.webp"
-   }
-  ]
- },
- "source-assets/blog/06437f_overcome-fear-of-public-speaking-the-juicy-effect.jpg": {
-  "w": 837,
-  "h": 555,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-06437f_overcome-fear-of-public-speaking-the-juicy-effect-480.webp"
-   },
-   {
-    "w": 837,
-    "src": "/img/blog-06437f_overcome-fear-of-public-speaking-the-juicy-effect-837.webp"
-   }
-  ]
- },
- "source-assets/blog/096300_1772330298061.jpg": {
-  "w": 2500,
-  "h": 1660,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-096300_1772330298061-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-096300_1772330298061-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-096300_1772330298061-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-096300_1772330298061-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/0a7bf0_The_Heart_Brain.png": {
-  "w": 305,
-  "h": 231,
-  "variants": [
-   {
-    "w": 305,
-    "src": "/img/blog-0a7bf0_the_heart_brain-305.webp"
-   }
-  ]
- },
- "source-assets/blog/0bbb45_StockSnap_ABOS0HZ80P.jpg": {
-  "w": 2500,
-  "h": 1669,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-0bbb45_stocksnap_abos0hz80p-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-0bbb45_stocksnap_abos0hz80p-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-0bbb45_stocksnap_abos0hz80p-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-0bbb45_stocksnap_abos0hz80p-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/0bcf5a_rishabh-dharmani-IvfAs3Qk64M-unsplash.jpg": {
-  "w": 2500,
-  "h": 1593,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-0bcf5a_rishabh-dharmani-ivfas3qk64m-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/0d6f6a_DEEP_OCEAN_CLEANSE.png": {
-  "w": 265,
-  "h": 153,
-  "variants": [
-   {
-    "w": 265,
-    "src": "/img/blog-0d6f6a_deep_ocean_cleanse-265.webp"
-   }
-  ]
- },
- "source-assets/blog/0e6e13_vedic_astrology.jpg": {
-  "w": 474,
-  "h": 177,
-  "variants": [
-   {
-    "w": 474,
-    "src": "/img/blog-0e6e13_vedic_astrology-474.webp"
-   }
-  ]
- },
- "source-assets/blog/0f6235_StockSnap_GCF8Y9LWPE.jpg": {
-  "w": 2500,
-  "h": 1656,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-0f6235_stocksnap_gcf8y9lwpe-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-0f6235_stocksnap_gcf8y9lwpe-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-0f6235_stocksnap_gcf8y9lwpe-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-0f6235_stocksnap_gcf8y9lwpe-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/16278f_Many_Faces_of_Womb_-_The_Juicy_Effect.jpeg": {
-  "w": 1122,
-  "h": 1402,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-16278f_many_faces_of_womb_-_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-16278f_many_faces_of_womb_-_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1122,
-    "src": "/img/blog-16278f_many_faces_of_womb_-_the_juicy_effect-1122.webp"
-   }
-  ]
- },
- "source-assets/blog/16cdcc_overcoming_fear_is_possible_the_juicy_effect.jpg": {
-  "w": 1920,
-  "h": 1280,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-16cdcc_overcoming_fear_is_possible_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-16cdcc_overcoming_fear_is_possible_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-16cdcc_overcoming_fear_is_possible_the_juicy_effect-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-16cdcc_overcoming_fear_is_possible_the_juicy_effect-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/188229_christopher-campbell-h9Rx3zOYZws-unsplash.jpg": {
-  "w": 2500,
-  "h": 3750,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-188229_christopher-campbell-h9rx3zoyzws-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/193c15_51guq2SjRwL.jpg": {
-  "w": 437,
-  "h": 500,
-  "variants": [
-   {
-    "w": 437,
-    "src": "/img/blog-193c15_51guq2sjrwl-437.webp"
-   }
-  ]
- },
- "source-assets/blog/199e6d_ante-gudelj-P-JX1Agg0Ts-unsplash.jpg": {
-  "w": 2500,
-  "h": 3750,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-199e6d_ante-gudelj-p-jx1agg0ts-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/19e268_Picture1.jpg": {
-  "w": 1855,
-  "h": 1236,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-19e268_picture1-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-19e268_picture1-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-19e268_picture1-1600.webp"
-   },
-   {
-    "w": 1855,
-    "src": "/img/blog-19e268_picture1-1855.webp"
-   }
-  ]
- },
- "source-assets/blog/1abf82_image-asset.png": {
-  "w": 1920,
-  "h": 1434,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-1abf82_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-1abf82_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-1abf82_image-asset-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-1abf82_image-asset-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/1bfc6f_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1660,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-1bfc6f_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-1bfc6f_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-1bfc6f_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-1bfc6f_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/1f377e_The_Juicy_Effect_Healing_Packages.png": {
-  "w": 1023,
-  "h": 1537,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-1f377e_the_juicy_effect_healing_packages-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-1f377e_the_juicy_effect_healing_packages-960.webp"
-   },
-   {
-    "w": 1023,
-    "src": "/img/blog-1f377e_the_juicy_effect_healing_packages-1023.webp"
-   }
-  ]
- },
- "source-assets/blog/1fe6e5_WhatsApp_Image_2026-08-27_at_5.51.32_PM.jpeg": {
-  "w": 1600,
-  "h": 1066,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-1fe6e5_whatsapp_image_2026-08-27_at_5-51-32_pm-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-1fe6e5_whatsapp_image_2026-08-27_at_5-51-32_pm-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-1fe6e5_whatsapp_image_2026-08-27_at_5-51-32_pm-1600.webp"
-   }
-  ]
- },
- "source-assets/blog/2339e0_image-asset.png": {
-  "w": 657,
-  "h": 656,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-2339e0_image-asset-480.webp"
-   },
-   {
-    "w": 657,
-    "src": "/img/blog-2339e0_image-asset-657.webp"
-   }
-  ]
- },
- "source-assets/blog/2457ba_image-asset.png": {
-  "w": 800,
-  "h": 800,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-2457ba_image-asset-480.webp"
-   },
-   {
-    "w": 800,
-    "src": "/img/blog-2457ba_image-asset-800.webp"
-   }
-  ]
- },
- "source-assets/blog/2986a2_energy_healing_eyes.jpg": {
-  "w": 297,
-  "h": 157,
-  "variants": [
-   {
-    "w": 297,
-    "src": "/img/blog-2986a2_energy_healing_eyes-297.webp"
-   }
-  ]
- },
- "source-assets/blog/2b50c0_From_overwhelm_to_Flow_-_The_Juicy_Effect.jpg": {
-  "w": 2048,
-  "h": 1365,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-2b50c0_from_overwhelm_to_flow_-_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-2b50c0_from_overwhelm_to_flow_-_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-2b50c0_from_overwhelm_to_flow_-_the_juicy_effect-1600.webp"
-   },
-   {
-    "w": 2048,
-    "src": "/img/blog-2b50c0_from_overwhelm_to_flow_-_the_juicy_effect-2048.webp"
-   }
-  ]
- },
- "source-assets/blog/2b8ef0_Kali.jpg": {
-  "w": 710,
-  "h": 960,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-2b8ef0_kali-480.webp"
-   },
-   {
-    "w": 710,
-    "src": "/img/blog-2b8ef0_kali-710.webp"
-   }
-  ]
- },
- "source-assets/blog/2efc44_sasun-bughdaryan-jKIEe89BmlI-unsplash.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-2efc44_sasun-bughdaryan-jkiee89bmli-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-2efc44_sasun-bughdaryan-jkiee89bmli-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-2efc44_sasun-bughdaryan-jkiee89bmli-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-2efc44_sasun-bughdaryan-jkiee89bmli-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/2f7ab5_WhatsApp_Image_2024-08-15_at_12.08.10_PM.jpg": {
-  "w": 1280,
-  "h": 960,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-2f7ab5_whatsapp_image_2024-08-15_at_12-08-10_pm-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-2f7ab5_whatsapp_image_2024-08-15_at_12-08-10_pm-960.webp"
-   },
-   {
-    "w": 1280,
-    "src": "/img/blog-2f7ab5_whatsapp_image_2024-08-15_at_12-08-10_pm-1280.webp"
-   }
-  ]
- },
- "source-assets/blog/317973_StockSnap_GCF8Y9LWPE.jpg": {
-  "w": 2500,
-  "h": 1656,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-317973_stocksnap_gcf8y9lwpe-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-317973_stocksnap_gcf8y9lwpe-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-317973_stocksnap_gcf8y9lwpe-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-317973_stocksnap_gcf8y9lwpe-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/329f44_1772330297746.jpg": {
-  "w": 1667,
-  "h": 1224,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-329f44_1772330297746-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-329f44_1772330297746-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-329f44_1772330297746-1600.webp"
-   },
-   {
-    "w": 1667,
-    "src": "/img/blog-329f44_1772330297746-1667.webp"
-   }
-  ]
- },
- "source-assets/blog/331de3_ej-strat-5Bg44lQswps-unsplash.jpg": {
-  "w": 2500,
-  "h": 1846,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-331de3_ej-strat-5bg44lqswps-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-331de3_ej-strat-5bg44lqswps-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-331de3_ej-strat-5bg44lqswps-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-331de3_ej-strat-5bg44lqswps-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/3385ee_rishikesh.jpg": {
-  "w": 1170,
-  "h": 659,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-3385ee_rishikesh-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-3385ee_rishikesh-960.webp"
-   },
-   {
-    "w": 1170,
-    "src": "/img/blog-3385ee_rishikesh-1170.webp"
-   }
-  ]
- },
- "source-assets/blog/373309_1772330296773.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-373309_1772330296773-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-373309_1772330296773-720.webp"
-   }
-  ]
- },
- "source-assets/blog/37ac45_agriculture-asia-china-235648.jpg": {
-  "w": 1877,
-  "h": 1341,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-37ac45_agriculture-asia-china-235648-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-37ac45_agriculture-asia-china-235648-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-37ac45_agriculture-asia-china-235648-1600.webp"
-   },
-   {
-    "w": 1877,
-    "src": "/img/blog-37ac45_agriculture-asia-china-235648-1877.webp"
-   }
-  ]
- },
- "source-assets/blog/39a34a_sasun-bughdaryan-jKIEe89BmlI-unsplash.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-39a34a_sasun-bughdaryan-jkiee89bmli-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-39a34a_sasun-bughdaryan-jkiee89bmli-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-39a34a_sasun-bughdaryan-jkiee89bmli-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-39a34a_sasun-bughdaryan-jkiee89bmli-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/3ae1ba_casey-horner-265UjRsLgd8-unsplash.jpg": {
-  "w": 2500,
-  "h": 3745,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-3ae1ba_casey-horner-265ujrslgd8-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-3ae1ba_casey-horner-265ujrslgd8-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-3ae1ba_casey-horner-265ujrslgd8-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-3ae1ba_casey-horner-265ujrslgd8-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/3d879b_1772330298563.png": {
-  "w": 300,
-  "h": 300,
-  "variants": [
-   {
-    "w": 300,
-    "src": "/img/blog-3d879b_1772330298563-300.webp"
-   }
-  ]
- },
- "source-assets/blog/3ee519_image-asset.png": {
-  "w": 500,
-  "h": 281,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-3ee519_image-asset-480.webp"
-   },
-   {
-    "w": 500,
-    "src": "/img/blog-3ee519_image-asset-500.webp"
-   }
-  ]
- },
- "source-assets/blog/3f551d_image-asset.jpeg": {
-  "w": 960,
-  "h": 720,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-3f551d_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-3f551d_image-asset-960.webp"
-   }
-  ]
- },
- "source-assets/blog/3f6fca_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1660,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-3f6fca_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-3f6fca_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-3f6fca_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-3f6fca_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/415015_1772330298492.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-415015_1772330298492-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-415015_1772330298492-720.webp"
-   }
-  ]
- },
- "source-assets/blog/4281c5_lightonandoff.png": {
-  "w": 1920,
-  "h": 1434,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-4281c5_lightonandoff-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-4281c5_lightonandoff-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-4281c5_lightonandoff-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-4281c5_lightonandoff-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/43db93_Jelly_Fish_Picture.jpg": {
-  "w": 2500,
-  "h": 3745,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-43db93_jelly_fish_picture-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-43db93_jelly_fish_picture-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-43db93_jelly_fish_picture-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-43db93_jelly_fish_picture-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/450229_the-unconscious-mind-the-juicy-effect.jpg": {
-  "w": 2500,
-  "h": 1656,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-450229_the-unconscious-mind-the-juicy-effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-450229_the-unconscious-mind-the-juicy-effect-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-450229_the-unconscious-mind-the-juicy-effect-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-450229_the-unconscious-mind-the-juicy-effect-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/45eb91_From_overwhelm_to_Flow_-_The_Juicy_Effect.jpg": {
-  "w": 2048,
-  "h": 1365,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-45eb91_from_overwhelm_to_flow_-_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-45eb91_from_overwhelm_to_flow_-_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-45eb91_from_overwhelm_to_flow_-_the_juicy_effect-1600.webp"
-   },
-   {
-    "w": 2048,
-    "src": "/img/blog-45eb91_from_overwhelm_to_flow_-_the_juicy_effect-2048.webp"
-   }
-  ]
- },
- "source-assets/blog/480ff3_womb_healing_the_juicy_effect.jfif.jpg": {
-  "w": 1365,
-  "h": 2048,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-480ff3_womb_healing_the_juicy_effect-jfif-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-480ff3_womb_healing_the_juicy_effect-jfif-960.webp"
-   },
-   {
-    "w": 1365,
-    "src": "/img/blog-480ff3_womb_healing_the_juicy_effect-jfif-1365.webp"
-   }
-  ]
- },
- "source-assets/blog/4a1fa4_From_The_Journey.jpeg": {
-  "w": 1254,
-  "h": 1254,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-4a1fa4_from_the_journey-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-4a1fa4_from_the_journey-960.webp"
-   },
-   {
-    "w": 1254,
-    "src": "/img/blog-4a1fa4_from_the_journey-1254.webp"
-   }
-  ]
- },
- "source-assets/blog/4b439b_hero-journey.png": {
-  "w": 1500,
-  "h": 1018,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-4b439b_hero-journey-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-4b439b_hero-journey-960.webp"
-   },
-   {
-    "w": 1500,
-    "src": "/img/blog-4b439b_hero-journey-1500.webp"
-   }
-  ]
- },
- "source-assets/blog/4d40b7_rishabh-dharmani-IvfAs3Qk64M-unsplash.jpg": {
-  "w": 2500,
-  "h": 1593,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-4d40b7_rishabh-dharmani-ivfas3qk64m-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-4d40b7_rishabh-dharmani-ivfas3qk64m-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-4d40b7_rishabh-dharmani-ivfas3qk64m-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-4d40b7_rishabh-dharmani-ivfas3qk64m-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/4dbae5_lightonandoff.png": {
-  "w": 1920,
-  "h": 1434,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-4dbae5_lightonandoff-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-4dbae5_lightonandoff-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-4dbae5_lightonandoff-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-4dbae5_lightonandoff-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/4e125f_image-asset.png": {
-  "w": 500,
-  "h": 281,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-4e125f_image-asset-480.webp"
-   },
-   {
-    "w": 500,
-    "src": "/img/blog-4e125f_image-asset-500.webp"
-   }
-  ]
- },
- "source-assets/blog/54c932_1772330297497.jpg": {
-  "w": 2500,
-  "h": 1656,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-54c932_1772330297497-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-54c932_1772330297497-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-54c932_1772330297497-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-54c932_1772330297497-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/57b5e8_2ts5hna67k8-matthew-henry.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-57b5e8_2ts5hna67k8-matthew-henry-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-57b5e8_2ts5hna67k8-matthew-henry-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-57b5e8_2ts5hna67k8-matthew-henry-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-57b5e8_2ts5hna67k8-matthew-henry-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/57b9ca_transform_your_fear_of_public_speaking.jpg": {
-  "w": 802,
-  "h": 533,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-57b9ca_transform_your_fear_of_public_speaking-480.webp"
-   },
-   {
-    "w": 802,
-    "src": "/img/blog-57b9ca_transform_your_fear_of_public_speaking-802.webp"
-   }
-  ]
- },
- "source-assets/blog/57f3e0_StockSnap_POQ7B631M3.jpg": {
-  "w": 2000,
-  "h": 1335,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-57f3e0_stocksnap_poq7b631m3-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-57f3e0_stocksnap_poq7b631m3-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-57f3e0_stocksnap_poq7b631m3-1600.webp"
-   },
-   {
-    "w": 2000,
-    "src": "/img/blog-57f3e0_stocksnap_poq7b631m3-2000.webp"
-   }
-  ]
- },
- "source-assets/blog/5918a2_Healing_and_Empowerment.PNG": {
-  "w": 597,
-  "h": 281,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-5918a2_healing_and_empowerment-480.webp"
-   },
-   {
-    "w": 597,
-    "src": "/img/blog-5918a2_healing_and_empowerment-597.webp"
-   }
-  ]
- },
- "source-assets/blog/594de2_the_heart_magnetic_field.png": {
-  "w": 503,
-  "h": 322,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-594de2_the_heart_magnetic_field-480.webp"
-   },
-   {
-    "w": 503,
-    "src": "/img/blog-594de2_the_heart_magnetic_field-503.webp"
-   }
-  ]
- },
- "source-assets/blog/597d9c_calories-food-health-37417.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-597d9c_calories-food-health-37417-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-597d9c_calories-food-health-37417-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-597d9c_calories-food-health-37417-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-597d9c_calories-food-health-37417-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/5989d6_StockSnap_85DF26645A.jpg": {
-  "w": 1920,
-  "h": 1080,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-5989d6_stocksnap_85df26645a-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-5989d6_stocksnap_85df26645a-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-5989d6_stocksnap_85df26645a-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-5989d6_stocksnap_85df26645a-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/59ccfe_casey-horner-265UjRsLgd8-unsplash.jpg": {
-  "w": 2500,
-  "h": 3745,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-59ccfe_casey-horner-265ujrslgd8-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-59ccfe_casey-horner-265ujrslgd8-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-59ccfe_casey-horner-265ujrslgd8-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-59ccfe_casey-horner-265ujrslgd8-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/59e4a2_image-asset.jpeg": {
-  "w": 960,
-  "h": 640,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-59e4a2_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-59e4a2_image-asset-960.webp"
-   }
-  ]
- },
- "source-assets/blog/5ccd8f_61ZgZA1U6OL.jpg": {
-  "w": 354,
-  "h": 500,
-  "variants": [
-   {
-    "w": 354,
-    "src": "/img/blog-5ccd8f_61zgza1u6ol-354.webp"
-   }
-  ]
- },
- "source-assets/blog/5e1159_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1656,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-5e1159_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-5e1159_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-5e1159_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-5e1159_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/60dd58_Man_above_clouds_view.jpeg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-60dd58_man_above_clouds_view-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-60dd58_man_above_clouds_view-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-60dd58_man_above_clouds_view-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-60dd58_man_above_clouds_view-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/60dfd7_1772330297098.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-60dfd7_1772330297098-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-60dfd7_1772330297098-720.webp"
-   }
-  ]
- },
- "source-assets/blog/61037c_ante-gudelj-P-JX1Agg0Ts-unsplash.jpg": {
-  "w": 2500,
-  "h": 3750,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-61037c_ante-gudelj-p-jx1agg0ts-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-61037c_ante-gudelj-p-jx1agg0ts-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-61037c_ante-gudelj-p-jx1agg0ts-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-61037c_ante-gudelj-p-jx1agg0ts-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/624957_61RIypUlSpL.jpg": {
-  "w": 333,
-  "h": 500,
-  "variants": [
-   {
-    "w": 333,
-    "src": "/img/blog-624957_61riypulspl-333.webp"
-   }
-  ]
- },
- "source-assets/blog/6294df_vedic_astrology.jpg": {
-  "w": 474,
-  "h": 177,
-  "variants": [
-   {
-    "w": 474,
-    "src": "/img/blog-6294df_vedic_astrology-474.webp"
-   }
-  ]
- },
- "source-assets/blog/63e5bf_nasa-vhSz50AaFAs-unsplash.jpg": {
-  "w": 2500,
-  "h": 1875,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-63e5bf_nasa-vhsz50aafas-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-63e5bf_nasa-vhsz50aafas-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-63e5bf_nasa-vhsz50aafas-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-63e5bf_nasa-vhsz50aafas-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/64d259_asthanga-yoga-ys-2-29.jpg": {
-  "w": 714,
-  "h": 477,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-64d259_asthanga-yoga-ys-2-29-480.webp"
-   },
-   {
-    "w": 714,
-    "src": "/img/blog-64d259_asthanga-yoga-ys-2-29-714.webp"
-   }
-  ]
- },
- "source-assets/blog/64fcbb_download_(1).jpg": {
-  "w": 300,
-  "h": 168,
-  "variants": [
-   {
-    "w": 300,
-    "src": "/img/blog-64fcbb_download_-1-300.webp"
-   }
-  ]
- },
- "source-assets/blog/6674bb_agriculture-asia-china-235648.jpg": {
-  "w": 1877,
-  "h": 1341,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-6674bb_agriculture-asia-china-235648-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-6674bb_agriculture-asia-china-235648-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-6674bb_agriculture-asia-china-235648-1600.webp"
-   },
-   {
-    "w": 1877,
-    "src": "/img/blog-6674bb_agriculture-asia-china-235648-1877.webp"
-   }
-  ]
- },
- "source-assets/blog/683e8e_Man_above_clouds_view.jpeg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-683e8e_man_above_clouds_view-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-683e8e_man_above_clouds_view-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-683e8e_man_above_clouds_view-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-683e8e_man_above_clouds_view-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/68719e_rishikesh.jpg": {
-  "w": 1170,
-  "h": 659,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-68719e_rishikesh-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-68719e_rishikesh-960.webp"
-   },
-   {
-    "w": 1170,
-    "src": "/img/blog-68719e_rishikesh-1170.webp"
-   }
-  ]
- },
- "source-assets/blog/692571_The_Cosmic_Womb_-_The_Juicy_Effect.jpeg": {
-  "w": 1024,
-  "h": 1536,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-692571_the_cosmic_womb_-_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-692571_the_cosmic_womb_-_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1024,
-    "src": "/img/blog-692571_the_cosmic_womb_-_the_juicy_effect-1024.webp"
-   }
-  ]
- },
- "source-assets/blog/697a78_Picture_of_yin_yang.jpg": {
-  "w": 600,
-  "h": 600,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-697a78_picture_of_yin_yang-480.webp"
-   },
-   {
-    "w": 600,
-    "src": "/img/blog-697a78_picture_of_yin_yang-600.webp"
-   }
-  ]
- },
- "source-assets/blog/6c42ba_Cat_2.jpg": {
-  "w": 1532,
-  "h": 2048,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-6c42ba_cat_2-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-6c42ba_cat_2-960.webp"
-   },
-   {
-    "w": 1532,
-    "src": "/img/blog-6c42ba_cat_2-1532.webp"
-   }
-  ]
- },
- "source-assets/blog/6d00b0_Muladhara.png": {
-  "w": 250,
-  "h": 250,
-  "variants": [
-   {
-    "w": 250,
-    "src": "/img/blog-6d00b0_muladhara-250.webp"
-   }
-  ]
- },
- "source-assets/blog/6e86fc_image-asset.png": {
-  "w": 275,
-  "h": 183,
-  "variants": [
-   {
-    "w": 275,
-    "src": "/img/blog-6e86fc_image-asset-275.webp"
-   }
-  ]
- },
- "source-assets/blog/6eb8d7_christopher-campbell-h9Rx3zOYZws-unsplash.jpg": {
-  "w": 2500,
-  "h": 3750,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-6eb8d7_christopher-campbell-h9rx3zoyzws-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-6eb8d7_christopher-campbell-h9rx3zoyzws-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-6eb8d7_christopher-campbell-h9rx3zoyzws-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-6eb8d7_christopher-campbell-h9rx3zoyzws-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/6f4dbf_The_Juicy_Effect_in_Ubud.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-6f4dbf_the_juicy_effect_in_ubud-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/70c769_pexels-stas-knop-1194723.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-70c769_pexels-stas-knop-1194723-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-70c769_pexels-stas-knop-1194723-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-70c769_pexels-stas-knop-1194723-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-70c769_pexels-stas-knop-1194723-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/71eb9b_image-asset.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-71eb9b_image-asset-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-71eb9b_image-asset-720.webp"
-   }
-  ]
- },
- "source-assets/blog/7253de_StockSnap_8QQMEOXVYH.jpg": {
-  "w": 2500,
-  "h": 1979,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-7253de_stocksnap_8qqmeoxvyh-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-7253de_stocksnap_8qqmeoxvyh-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-7253de_stocksnap_8qqmeoxvyh-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-7253de_stocksnap_8qqmeoxvyh-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/733363_image-asset.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-733363_image-asset-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-733363_image-asset-720.webp"
-   }
-  ]
- },
- "source-assets/blog/742256_image-asset.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-742256_image-asset-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-742256_image-asset-720.webp"
-   }
-  ]
- },
- "source-assets/blog/746f56_1772330297628.jpg": {
-  "w": 1280,
-  "h": 883,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-746f56_1772330297628-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-746f56_1772330297628-960.webp"
-   },
-   {
-    "w": 1280,
-    "src": "/img/blog-746f56_1772330297628-1280.webp"
-   }
-  ]
- },
- "source-assets/blog/74ef7c_audio-dj-mix-63703.jpg": {
-  "w": 2100,
-  "h": 1396,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-74ef7c_audio-dj-mix-63703-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-74ef7c_audio-dj-mix-63703-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-74ef7c_audio-dj-mix-63703-1600.webp"
-   },
-   {
-    "w": 2100,
-    "src": "/img/blog-74ef7c_audio-dj-mix-63703-2100.webp"
-   }
-  ]
- },
- "source-assets/blog/763a1e_1772330296999.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-763a1e_1772330296999-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-763a1e_1772330296999-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-763a1e_1772330296999-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-763a1e_1772330296999-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/77020d_image-asset.png": {
-  "w": 500,
-  "h": 281,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-77020d_image-asset-480.webp"
-   },
-   {
-    "w": 500,
-    "src": "/img/blog-77020d_image-asset-500.webp"
-   }
-  ]
- },
- "source-assets/blog/773861_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-773861_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-773861_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-773861_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-773861_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/779d13_WhatsApp_Image_2022-11-29_at_1.28.45_PM.jpeg": {
-  "w": 1600,
-  "h": 1200,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-779d13_whatsapp_image_2022-11-29_at_1-28-45_pm-1600.webp"
-   }
-  ]
- },
- "source-assets/blog/7c495a_person_looking_stressed_at_work2.jpg": {
-  "w": 2500,
-  "h": 1646,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-7c495a_person_looking_stressed_at_work2-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-7c495a_person_looking_stressed_at_work2-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-7c495a_person_looking_stressed_at_work2-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-7c495a_person_looking_stressed_at_work2-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/7c853e_ante-gudelj-P-JX1Agg0Ts-unsplash.jpg": {
-  "w": 2500,
-  "h": 3750,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-7c853e_ante-gudelj-p-jx1agg0ts-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-7c853e_ante-gudelj-p-jx1agg0ts-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-7c853e_ante-gudelj-p-jx1agg0ts-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-7c853e_ante-gudelj-p-jx1agg0ts-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/7d5ed5_rishabh-dharmani-IvfAs3Qk64M-unsplash.jpg": {
-  "w": 2500,
-  "h": 1593,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-7d5ed5_rishabh-dharmani-ivfas3qk64m-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-7d5ed5_rishabh-dharmani-ivfas3qk64m-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-7d5ed5_rishabh-dharmani-ivfas3qk64m-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-7d5ed5_rishabh-dharmani-ivfas3qk64m-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/7e559a_orchestra.jpg": {
-  "w": 1720,
-  "h": 1120,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-7e559a_orchestra-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-7e559a_orchestra-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-7e559a_orchestra-1600.webp"
-   },
-   {
-    "w": 1720,
-    "src": "/img/blog-7e559a_orchestra-1720.webp"
-   }
-  ]
- },
- "source-assets/blog/7e6d66_StockSnap_P9YPEQPQ18.jpg": {
-  "w": 2500,
-  "h": 2500,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-7e6d66_stocksnap_p9ypeqpq18-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-7e6d66_stocksnap_p9ypeqpq18-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-7e6d66_stocksnap_p9ypeqpq18-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-7e6d66_stocksnap_p9ypeqpq18-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/7f00d2_the_five_juicy_elements.jpg": {
-  "w": 223,
-  "h": 206,
-  "variants": [
-   {
-    "w": 223,
-    "src": "/img/blog-7f00d2_the_five_juicy_elements-223.webp"
-   }
-  ]
- },
- "source-assets/blog/7f7c6b_StockSnap_P9YPEQPQ18.jpg": {
-  "w": 2500,
-  "h": 2500,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-7f7c6b_stocksnap_p9ypeqpq18-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-7f7c6b_stocksnap_p9ypeqpq18-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-7f7c6b_stocksnap_p9ypeqpq18-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-7f7c6b_stocksnap_p9ypeqpq18-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/806351_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-806351_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-806351_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-806351_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-806351_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/82c847_t-d-hm5BUrBTa68-unsplash.jpg": {
-  "w": 2500,
-  "h": 1836,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-82c847_t-d-hm5burbta68-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-82c847_t-d-hm5burbta68-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-82c847_t-d-hm5burbta68-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-82c847_t-d-hm5burbta68-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/847c5f_ej-strat-5Bg44lQswps-unsplash.jpg": {
-  "w": 2500,
-  "h": 1846,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-847c5f_ej-strat-5bg44lqswps-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-847c5f_ej-strat-5bg44lqswps-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-847c5f_ej-strat-5bg44lqswps-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-847c5f_ej-strat-5bg44lqswps-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/8720fa_portrait-child_hiding_317041_1920.jpg": {
-  "w": 1920,
-  "h": 1285,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-8720fa_portrait-child_hiding_317041_1920-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-8720fa_portrait-child_hiding_317041_1920-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-8720fa_portrait-child_hiding_317041_1920-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-8720fa_portrait-child_hiding_317041_1920-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/881d03_1783500026751.png": {
-  "w": 300,
-  "h": 300,
-  "variants": [
-   {
-    "w": 300,
-    "src": "/img/blog-881d03_1783500026751-300.webp"
-   }
-  ]
- },
- "source-assets/blog/8827b3_Inner_Child_Hypnotherapy_The_Juicy_Effect.jpeg": {
-  "w": 1600,
-  "h": 1066,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-8827b3_inner_child_hypnotherapy_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-8827b3_inner_child_hypnotherapy_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-8827b3_inner_child_hypnotherapy_the_juicy_effect-1600.webp"
-   }
-  ]
- },
- "source-assets/blog/88bd5a_1772330296844.png": {
-  "w": 275,
-  "h": 183,
-  "variants": [
-   {
-    "w": 275,
-    "src": "/img/blog-88bd5a_1772330296844-275.webp"
-   }
-  ]
- },
- "source-assets/blog/8a1131_Healing_and_Empowerment.PNG": {
-  "w": 597,
-  "h": 281,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-8a1131_healing_and_empowerment-480.webp"
-   },
-   {
-    "w": 597,
-    "src": "/img/blog-8a1131_healing_and_empowerment-597.webp"
-   }
-  ]
- },
- "source-assets/blog/8a2d35_WhatsApp_Image_2022-11-29_at_1.28.45_PM.jpeg": {
-  "w": 1600,
-  "h": 1200,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-8a2d35_whatsapp_image_2022-11-29_at_1-28-45_pm-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-8a2d35_whatsapp_image_2022-11-29_at_1-28-45_pm-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-8a2d35_whatsapp_image_2022-11-29_at_1-28-45_pm-1600.webp"
-   }
-  ]
- },
- "source-assets/blog/8a6c33_1772330298310.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-8a6c33_1772330298310-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-8a6c33_1772330298310-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-8a6c33_1772330298310-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-8a6c33_1772330298310-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/8bc3bd_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-8bc3bd_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-8bc3bd_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-8bc3bd_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-8bc3bd_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/90f0ec_Ahimsa.jpg": {
-  "w": 903,
-  "h": 600,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-90f0ec_ahimsa-480.webp"
-   },
-   {
-    "w": 903,
-    "src": "/img/blog-90f0ec_ahimsa-903.webp"
-   }
-  ]
- },
- "source-assets/blog/9165c3_The_Cosmic_Womb_-_The_Juicy_Effect.jpeg": {
-  "w": 1024,
-  "h": 1536,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-9165c3_the_cosmic_womb_-_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-9165c3_the_cosmic_womb_-_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1024,
-    "src": "/img/blog-9165c3_the_cosmic_womb_-_the_juicy_effect-1024.webp"
-   }
-  ]
- },
- "source-assets/blog/916cd8_WhatsApp_Image_2026-07-09_at_2.58.09_PM.jpeg": {
-  "w": 1200,
-  "h": 1600,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-916cd8_whatsapp_image_2026-07-09_at_2-58-09_pm-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-916cd8_whatsapp_image_2026-07-09_at_2-58-09_pm-960.webp"
-   },
-   {
-    "w": 1200,
-    "src": "/img/blog-916cd8_whatsapp_image_2026-07-09_at_2-58-09_pm-1200.webp"
-   }
-  ]
- },
- "source-assets/blog/924b59_sharon_guided_meditation.PNG": {
-  "w": 727,
-  "h": 406,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-924b59_sharon_guided_meditation-480.webp"
-   },
-   {
-    "w": 727,
-    "src": "/img/blog-924b59_sharon_guided_meditation-727.webp"
-   }
-  ]
- },
- "source-assets/blog/92a82c_Embodying_YES_to_life_-_The_Juicy_Effect.jpg": {
-  "w": 1200,
-  "h": 1600,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-92a82c_embodying_yes_to_life_-_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-92a82c_embodying_yes_to_life_-_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1200,
-    "src": "/img/blog-92a82c_embodying_yes_to_life_-_the_juicy_effect-1200.webp"
-   }
-  ]
- },
- "source-assets/blog/9434d7_energy_healing_eyes.jpg": {
-  "w": 297,
-  "h": 157,
-  "variants": [
-   {
-    "w": 297,
-    "src": "/img/blog-9434d7_energy_healing_eyes-297.webp"
-   }
-  ]
- },
- "source-assets/blog/95edac_Ahimsa.jpg": {
-  "w": 903,
-  "h": 600,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-95edac_ahimsa-480.webp"
-   },
-   {
-    "w": 903,
-    "src": "/img/blog-95edac_ahimsa-903.webp"
-   }
-  ]
- },
- "source-assets/blog/988097_1772330296880.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-988097_1772330296880-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-988097_1772330296880-720.webp"
-   }
-  ]
- },
- "source-assets/blog/991366_WhatsApp_Image_2022-11-29_at_1.28.45_PM.jpeg": {
-  "w": 1600,
-  "h": 1200,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-991366_whatsapp_image_2022-11-29_at_1-28-45_pm-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-991366_whatsapp_image_2022-11-29_at_1-28-45_pm-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-991366_whatsapp_image_2022-11-29_at_1-28-45_pm-1600.webp"
-   }
-  ]
- },
- "source-assets/blog/993f50_Heart_Magnetic_Field.png": {
-  "w": 310,
-  "h": 213,
-  "variants": [
-   {
-    "w": 310,
-    "src": "/img/blog-993f50_heart_magnetic_field-310.webp"
-   }
-  ]
- },
- "source-assets/blog/99af53_Intuitive_Heart_Guidance.png": {
-  "w": 496,
-  "h": 308,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-99af53_intuitive_heart_guidance-480.webp"
-   },
-   {
-    "w": 496,
-    "src": "/img/blog-99af53_intuitive_heart_guidance-496.webp"
-   }
-  ]
- },
- "source-assets/blog/99b8ee_Kali.jpg": {
-  "w": 710,
-  "h": 960,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-99b8ee_kali-480.webp"
-   },
-   {
-    "w": 710,
-    "src": "/img/blog-99b8ee_kali-710.webp"
-   }
-  ]
- },
- "source-assets/blog/99e043_ancestral_healing.PNG": {
-  "w": 225,
-  "h": 128,
-  "variants": [
-   {
-    "w": 225,
-    "src": "/img/blog-99e043_ancestral_healing-225.webp"
-   }
-  ]
- },
- "source-assets/blog/9a1e53_image-asset.png": {
-  "w": 500,
-  "h": 281,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-9a1e53_image-asset-480.webp"
-   },
-   {
-    "w": 500,
-    "src": "/img/blog-9a1e53_image-asset-500.webp"
-   }
-  ]
- },
- "source-assets/blog/9adf4b_1650773096645.JPEG": {
-  "w": 1536,
-  "h": 2048,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-9adf4b_1650773096645-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-9adf4b_1650773096645-960.webp"
-   },
-   {
-    "w": 1536,
-    "src": "/img/blog-9adf4b_1650773096645-1536.webp"
-   }
-  ]
- },
- "source-assets/blog/9b16c6_portrait-child_hiding_317041_1920.jpg": {
-  "w": 1920,
-  "h": 1285,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-9b16c6_portrait-child_hiding_317041_1920-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-9b16c6_portrait-child_hiding_317041_1920-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-9b16c6_portrait-child_hiding_317041_1920-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-9b16c6_portrait-child_hiding_317041_1920-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/9bc7f8_Our_words_can_heal_another.png": {
-  "w": 1080,
-  "h": 1080,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-9bc7f8_our_words_can_heal_another-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-9bc7f8_our_words_can_heal_another-960.webp"
-   },
-   {
-    "w": 1080,
-    "src": "/img/blog-9bc7f8_our_words_can_heal_another-1080.webp"
-   }
-  ]
- },
- "source-assets/blog/9caed9_yoga_at_work.jpg": {
-  "w": 204,
-  "h": 153,
-  "variants": [
-   {
-    "w": 204,
-    "src": "/img/blog-9caed9_yoga_at_work-204.webp"
-   }
-  ]
- },
- "source-assets/blog/9e4b4f_Our_words_can_heal_another.png": {
-  "w": 1080,
-  "h": 1080,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-9e4b4f_our_words_can_heal_another-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-9e4b4f_our_words_can_heal_another-960.webp"
-   },
-   {
-    "w": 1080,
-    "src": "/img/blog-9e4b4f_our_words_can_heal_another-1080.webp"
-   }
-  ]
- },
- "source-assets/blog/9eafaa_StockSnap_8QQMEOXVYH.jpg": {
-  "w": 2500,
-  "h": 1979,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-9eafaa_stocksnap_8qqmeoxvyh-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-9eafaa_stocksnap_8qqmeoxvyh-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-9eafaa_stocksnap_8qqmeoxvyh-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-9eafaa_stocksnap_8qqmeoxvyh-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/a23436_orchestra.jpg": {
-  "w": 1720,
-  "h": 1120,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a23436_orchestra-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-a23436_orchestra-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-a23436_orchestra-1600.webp"
-   },
-   {
-    "w": 1720,
-    "src": "/img/blog-a23436_orchestra-1720.webp"
-   }
-  ]
- },
- "source-assets/blog/a27a5c_StockSnap_FT18I6U09O.jpg": {
-  "w": 2500,
-  "h": 1669,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a27a5c_stocksnap_ft18i6u09o-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-a27a5c_stocksnap_ft18i6u09o-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-a27a5c_stocksnap_ft18i6u09o-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-a27a5c_stocksnap_ft18i6u09o-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/a27b73_image-asset.jpeg": {
-  "w": 221,
-  "h": 229,
-  "variants": [
-   {
-    "w": 221,
-    "src": "/img/blog-a27b73_image-asset-221.webp"
-   }
-  ]
- },
- "source-assets/blog/a2aa94_calories-food-health-37417.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a2aa94_calories-food-health-37417-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-a2aa94_calories-food-health-37417-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-a2aa94_calories-food-health-37417-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-a2aa94_calories-food-health-37417-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/a402da_image-asset.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a402da_image-asset-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-a402da_image-asset-720.webp"
-   }
-  ]
- },
- "source-assets/blog/a443e3_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1656,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a443e3_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-a443e3_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-a443e3_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-a443e3_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/a4a3bc_power_of_the_heart_-_the_juicy_effect.jpg": {
-  "w": 555,
-  "h": 412,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a4a3bc_power_of_the_heart_-_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 555,
-    "src": "/img/blog-a4a3bc_power_of_the_heart_-_the_juicy_effect-555.webp"
-   }
-  ]
- },
- "source-assets/blog/a4c65e_nasa-vhSz50AaFAs-unsplash.jpg": {
-  "w": 2500,
-  "h": 1875,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a4c65e_nasa-vhsz50aafas-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-a4c65e_nasa-vhsz50aafas-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-a4c65e_nasa-vhsz50aafas-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-a4c65e_nasa-vhsz50aafas-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/a5a4a7_Sharon_new_building_3.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a5a4a7_sharon_new_building_3-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-a5a4a7_sharon_new_building_3-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-a5a4a7_sharon_new_building_3-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-a5a4a7_sharon_new_building_3-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/a9039c_person_looking_stressed_at_work2.jpg": {
-  "w": 2500,
-  "h": 1646,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-a9039c_person_looking_stressed_at_work2-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-a9039c_person_looking_stressed_at_work2-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-a9039c_person_looking_stressed_at_work2-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-a9039c_person_looking_stressed_at_work2-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/aaaf80_embracing-fear-the-juicy-effect.jpg": {
-  "w": 2500,
-  "h": 1666,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-aaaf80_embracing-fear-the-juicy-effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-aaaf80_embracing-fear-the-juicy-effect-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-aaaf80_embracing-fear-the-juicy-effect-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-aaaf80_embracing-fear-the-juicy-effect-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/aae2f4_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-aae2f4_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-aae2f4_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-aae2f4_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-aae2f4_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/ab1e42_StockSnap_ENKNXE2NAM.jpg": {
-  "w": 2500,
-  "h": 1673,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-ab1e42_stocksnap_enknxe2nam-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-ab1e42_stocksnap_enknxe2nam-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-ab1e42_stocksnap_enknxe2nam-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-ab1e42_stocksnap_enknxe2nam-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/abd80b_1650773096645.JPEG": {
-  "w": 1536,
-  "h": 2048,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-abd80b_1650773096645-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-abd80b_1650773096645-960.webp"
-   },
-   {
-    "w": 1536,
-    "src": "/img/blog-abd80b_1650773096645-1536.webp"
-   }
-  ]
- },
- "source-assets/blog/ad5496_image-asset.jpeg": {
-  "w": 1075,
-  "h": 716,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-ad5496_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-ad5496_image-asset-960.webp"
-   },
-   {
-    "w": 1075,
-    "src": "/img/blog-ad5496_image-asset-1075.webp"
-   }
-  ]
- },
- "source-assets/blog/ae540d_image-asset.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-ae540d_image-asset-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-ae540d_image-asset-720.webp"
-   }
-  ]
- },
- "source-assets/blog/aed689_womb_healing_the_juicy_effect.jfif.jpg": {
-  "w": 1365,
-  "h": 2048,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-aed689_womb_healing_the_juicy_effect-jfif-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-aed689_womb_healing_the_juicy_effect-jfif-960.webp"
-   },
-   {
-    "w": 1365,
-    "src": "/img/blog-aed689_womb_healing_the_juicy_effect-jfif-1365.webp"
-   }
-  ]
- },
- "source-assets/blog/b0e2df_Kali.jpg": {
-  "w": 710,
-  "h": 960,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-b0e2df_kali-480.webp"
-   },
-   {
-    "w": 710,
-    "src": "/img/blog-b0e2df_kali-710.webp"
-   }
-  ]
- },
- "source-assets/blog/b359e2_squeeze.jpg": {
-  "w": 2456,
-  "h": 1857,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-b359e2_squeeze-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-b359e2_squeeze-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-b359e2_squeeze-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-b359e2_squeeze-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/b3aa25_Jelly_Fish_Picture.jpg": {
-  "w": 2500,
-  "h": 3745,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-b3aa25_jelly_fish_picture-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-b3aa25_jelly_fish_picture-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-b3aa25_jelly_fish_picture-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-b3aa25_jelly_fish_picture-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/b43a65_martin-sanchez-396165-unsplash.jpg": {
-  "w": 2048,
-  "h": 1365,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-b43a65_martin-sanchez-396165-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-b43a65_martin-sanchez-396165-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-b43a65_martin-sanchez-396165-unsplash-1600.webp"
-   },
-   {
-    "w": 2048,
-    "src": "/img/blog-b43a65_martin-sanchez-396165-unsplash-2048.webp"
-   }
-  ]
- },
- "source-assets/blog/b4d78d_Immune-system_the_juicy_effect.jpg": {
-  "w": 895,
-  "h": 590,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-b4d78d_immune-system_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 895,
-    "src": "/img/blog-b4d78d_immune-system_the_juicy_effect-895.webp"
-   }
-  ]
- },
- "source-assets/blog/b7457f_sharon_guided_meditation.PNG": {
-  "w": 727,
-  "h": 406,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-b7457f_sharon_guided_meditation-480.webp"
-   },
-   {
-    "w": 727,
-    "src": "/img/blog-b7457f_sharon_guided_meditation-727.webp"
-   }
-  ]
- },
- "source-assets/blog/b967ed_christopher-campbell-h9Rx3zOYZws-unsplash.jpg": {
-  "w": 2500,
-  "h": 3750,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-b967ed_christopher-campbell-h9rx3zoyzws-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-b967ed_christopher-campbell-h9rx3zoyzws-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-b967ed_christopher-campbell-h9rx3zoyzws-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-b967ed_christopher-campbell-h9rx3zoyzws-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/b9dce1_Sharon_new_building_3.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-b9dce1_sharon_new_building_3-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-b9dce1_sharon_new_building_3-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-b9dce1_sharon_new_building_3-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-b9dce1_sharon_new_building_3-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/bc55a1_DSCF0841.JPG": {
-  "w": 2500,
-  "h": 3750,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-bc55a1_dscf0841-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-bc55a1_dscf0841-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-bc55a1_dscf0841-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-bc55a1_dscf0841-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/be184c_2ts5hna67k8-matthew-henry.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-be184c_2ts5hna67k8-matthew-henry-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-be184c_2ts5hna67k8-matthew-henry-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-be184c_2ts5hna67k8-matthew-henry-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-be184c_2ts5hna67k8-matthew-henry-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/c0ada5_t-d-hm5BUrBTa68-unsplash.jpg": {
-  "w": 2500,
-  "h": 1836,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c0ada5_t-d-hm5burbta68-unsplash-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-c0ada5_t-d-hm5burbta68-unsplash-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-c0ada5_t-d-hm5burbta68-unsplash-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-c0ada5_t-d-hm5burbta68-unsplash-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/c1aa19_image-asset.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c1aa19_image-asset-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-c1aa19_image-asset-720.webp"
-   }
-  ]
- },
- "source-assets/blog/c22818_squeeze.jpg": {
-  "w": 2456,
-  "h": 1857,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c22818_squeeze-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-c22818_squeeze-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-c22818_squeeze-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-c22818_squeeze-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/c37db0_image-asset.jpeg": {
-  "w": 1308,
-  "h": 798,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c37db0_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-c37db0_image-asset-960.webp"
-   },
-   {
-    "w": 1308,
-    "src": "/img/blog-c37db0_image-asset-1308.webp"
-   }
-  ]
- },
- "source-assets/blog/c40322_WhatsApp_Image_2024-08-15_at_12.08.10_PM.jpg": {
-  "w": 1280,
-  "h": 960,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c40322_whatsapp_image_2024-08-15_at_12-08-10_pm-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-c40322_whatsapp_image_2024-08-15_at_12-08-10_pm-960.webp"
-   },
-   {
-    "w": 1280,
-    "src": "/img/blog-c40322_whatsapp_image_2024-08-15_at_12-08-10_pm-1280.webp"
-   }
-  ]
- },
- "source-assets/blog/c54179_image-asset.png": {
-  "w": 500,
-  "h": 281,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c54179_image-asset-480.webp"
-   },
-   {
-    "w": 500,
-    "src": "/img/blog-c54179_image-asset-500.webp"
-   }
-  ]
- },
- "source-assets/blog/c7a672_overcoming_fear_is_possible_the_juicy_effect.jpg": {
-  "w": 1920,
-  "h": 1280,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c7a672_overcoming_fear_is_possible_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-c7a672_overcoming_fear_is_possible_the_juicy_effect-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-c7a672_overcoming_fear_is_possible_the_juicy_effect-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-c7a672_overcoming_fear_is_possible_the_juicy_effect-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/c7ef4e_StockSnap_POQ7B631M3.jpg": {
-  "w": 2000,
-  "h": 1335,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c7ef4e_stocksnap_poq7b631m3-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-c7ef4e_stocksnap_poq7b631m3-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-c7ef4e_stocksnap_poq7b631m3-1600.webp"
-   },
-   {
-    "w": 2000,
-    "src": "/img/blog-c7ef4e_stocksnap_poq7b631m3-2000.webp"
-   }
-  ]
- },
- "source-assets/blog/c9189c_WhatsApp_Image_2022-11-29_at_1.28.44_PM.jpeg": {
-  "w": 1600,
-  "h": 1200,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-c9189c_whatsapp_image_2022-11-29_at_1-28-44_pm-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-c9189c_whatsapp_image_2022-11-29_at_1-28-44_pm-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-c9189c_whatsapp_image_2022-11-29_at_1-28-44_pm-1600.webp"
-   }
-  ]
- },
- "source-assets/blog/cb5939_ebgr1szj3dg-idriss-fettoul.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-cb5939_ebgr1szj3dg-idriss-fettoul-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-cb5939_ebgr1szj3dg-idriss-fettoul-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-cb5939_ebgr1szj3dg-idriss-fettoul-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-cb5939_ebgr1szj3dg-idriss-fettoul-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/cc6555_Energetic_Expansion_The_Juicy_Effect_in_Ubud.jpg": {
-  "w": 1280,
-  "h": 960,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-960.webp"
-   },
-   {
-    "w": 1280,
-    "src": "/img/blog-cc6555_energetic_expansion_the_juicy_effect_in_ubud-1280.webp"
-   }
-  ]
- },
- "source-assets/blog/ce6a35_calories-food-health-37417.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-ce6a35_calories-food-health-37417-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-ce6a35_calories-food-health-37417-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-ce6a35_calories-food-health-37417-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-ce6a35_calories-food-health-37417-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/cf14fe_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-cf14fe_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-cf14fe_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-cf14fe_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-cf14fe_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/cfc522_image-asset.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-cfc522_image-asset-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-cfc522_image-asset-720.webp"
-   }
-  ]
- },
- "source-assets/blog/d3eb0a_image-asset.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-d3eb0a_image-asset-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-d3eb0a_image-asset-720.webp"
-   }
-  ]
- },
- "source-assets/blog/d67e20_image-asset.jpeg": {
-  "w": 1280,
-  "h": 883,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-d67e20_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-d67e20_image-asset-960.webp"
-   },
-   {
-    "w": 1280,
-    "src": "/img/blog-d67e20_image-asset-1280.webp"
-   }
-  ]
- },
- "source-assets/blog/d9e825_the_five_juicy_elements.jpg": {
-  "w": 223,
-  "h": 206,
-  "variants": [
-   {
-    "w": 223,
-    "src": "/img/blog-d9e825_the_five_juicy_elements-223.webp"
-   }
-  ]
- },
- "source-assets/blog/db31ae_DSCF0841.JPG": {
-  "w": 2500,
-  "h": 3750,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-db31ae_dscf0841-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-db31ae_dscf0841-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-db31ae_dscf0841-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-db31ae_dscf0841-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/db8f99_image-asset.png": {
-  "w": 631,
-  "h": 358,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-db8f99_image-asset-480.webp"
-   },
-   {
-    "w": 631,
-    "src": "/img/blog-db8f99_image-asset-631.webp"
-   }
-  ]
- },
- "source-assets/blog/de4a5b_StockSnap_85DF26645A.jpg": {
-  "w": 1920,
-  "h": 1080,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-de4a5b_stocksnap_85df26645a-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-de4a5b_stocksnap_85df26645a-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-de4a5b_stocksnap_85df26645a-1600.webp"
-   },
-   {
-    "w": 1920,
-    "src": "/img/blog-de4a5b_stocksnap_85df26645a-1920.webp"
-   }
-  ]
- },
- "source-assets/blog/e1a5d1_hero-journey.png": {
-  "w": 1500,
-  "h": 1018,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-e1a5d1_hero-journey-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-e1a5d1_hero-journey-960.webp"
-   },
-   {
-    "w": 1500,
-    "src": "/img/blog-e1a5d1_hero-journey-1500.webp"
-   }
-  ]
- },
- "source-assets/blog/e28b53_image-asset.jpeg": {
-  "w": 1280,
-  "h": 883,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-e28b53_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-e28b53_image-asset-960.webp"
-   },
-   {
-    "w": 1280,
-    "src": "/img/blog-e28b53_image-asset-1280.webp"
-   }
-  ]
- },
- "source-assets/blog/e6821e_yoga_as_a_way_of_life.jpg": {
-  "w": 375,
-  "h": 134,
-  "variants": [
-   {
-    "w": 375,
-    "src": "/img/blog-e6821e_yoga_as_a_way_of_life-375.webp"
-   }
-  ]
- },
- "source-assets/blog/e74524_The_Sacred_Spiral.jpeg": {
-  "w": 1536,
-  "h": 1024,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-e74524_the_sacred_spiral-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-e74524_the_sacred_spiral-960.webp"
-   },
-   {
-    "w": 1536,
-    "src": "/img/blog-e74524_the_sacred_spiral-1536.webp"
-   }
-  ]
- },
- "source-assets/blog/e79613_StockSnap_FT18I6U09O.jpg": {
-  "w": 2500,
-  "h": 1669,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-e79613_stocksnap_ft18i6u09o-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-e79613_stocksnap_ft18i6u09o-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-e79613_stocksnap_ft18i6u09o-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-e79613_stocksnap_ft18i6u09o-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/e8973d_The_Juicy_Effect_Healing_Packages.png": {
-  "w": 1023,
-  "h": 1537,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-e8973d_the_juicy_effect_healing_packages-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-e8973d_the_juicy_effect_healing_packages-960.webp"
-   },
-   {
-    "w": 1023,
-    "src": "/img/blog-e8973d_the_juicy_effect_healing_packages-1023.webp"
-   }
-  ]
- },
- "source-assets/blog/e9f7a5_The_Womb_Guardian.png": {
-  "w": 1122,
-  "h": 1402,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-e9f7a5_the_womb_guardian-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-e9f7a5_the_womb_guardian-960.webp"
-   },
-   {
-    "w": 1122,
-    "src": "/img/blog-e9f7a5_the_womb_guardian-1122.webp"
-   }
-  ]
- },
- "source-assets/blog/ec5d91_image-asset.jpeg": {
-  "w": 2500,
-  "h": 1578,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-ec5d91_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-ec5d91_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-ec5d91_image-asset-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-ec5d91_image-asset-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/eea758_1772330298098.png": {
-  "w": 720,
-  "h": 405,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-eea758_1772330298098-480.webp"
-   },
-   {
-    "w": 720,
-    "src": "/img/blog-eea758_1772330298098-720.webp"
-   }
-  ]
- },
- "source-assets/blog/ef28ab_image-asset.jpeg": {
-  "w": 1667,
-  "h": 1224,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-ef28ab_image-asset-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-ef28ab_image-asset-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-ef28ab_image-asset-1600.webp"
-   },
-   {
-    "w": 1667,
-    "src": "/img/blog-ef28ab_image-asset-1667.webp"
-   }
-  ]
- },
- "source-assets/blog/ef75c1_pexels-stas-knop-1194723.jpg": {
-  "w": 2500,
-  "h": 1667,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-ef75c1_pexels-stas-knop-1194723-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-ef75c1_pexels-stas-knop-1194723-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-ef75c1_pexels-stas-knop-1194723-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/blog-ef75c1_pexels-stas-knop-1194723-2200.webp"
-   }
-  ]
- },
- "source-assets/blog/f10f77_1772330298255.jpg": {
-  "w": 960,
-  "h": 720,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-f10f77_1772330298255-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-f10f77_1772330298255-960.webp"
-   }
-  ]
- },
- "source-assets/blog/f16ef5_WG_FWC_Heros-Journey_v2.jpg": {
-  "w": 1170,
-  "h": 1130,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-f16ef5_wg_fwc_heros-journey_v2-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-f16ef5_wg_fwc_heros-journey_v2-960.webp"
-   },
-   {
-    "w": 1170,
-    "src": "/img/blog-f16ef5_wg_fwc_heros-journey_v2-1170.webp"
-   }
-  ]
- },
- "source-assets/blog/f1dcee_ancestral_healing.PNG": {
-  "w": 225,
-  "h": 128,
-  "variants": [
-   {
-    "w": 225,
-    "src": "/img/blog-f1dcee_ancestral_healing-225.webp"
-   }
-  ]
- },
- "source-assets/blog/f1dff7_41AckKB-FtL.jpg": {
-  "w": 422,
-  "h": 500,
-  "variants": [
-   {
-    "w": 422,
-    "src": "/img/blog-f1dff7_41ackkb-ftl-422.webp"
-   }
-  ]
- },
- "source-assets/blog/f28a64_THISPO_1.PNG": {
-  "w": 1080,
-  "h": 1080,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-f28a64_thispo_1-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-f28a64_thispo_1-960.webp"
-   },
-   {
-    "w": 1080,
-    "src": "/img/blog-f28a64_thispo_1-1080.webp"
-   }
-  ]
- },
- "source-assets/blog/f91dd2_audio-dj-mix-63703.jpg": {
-  "w": 2100,
-  "h": 1396,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-f91dd2_audio-dj-mix-63703-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-f91dd2_audio-dj-mix-63703-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/blog-f91dd2_audio-dj-mix-63703-1600.webp"
-   },
-   {
-    "w": 2100,
-    "src": "/img/blog-f91dd2_audio-dj-mix-63703-2100.webp"
-   }
-  ]
- },
- "source-assets/blog/fab746_THISPO_1.PNG": {
-  "w": 1080,
-  "h": 1080,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-fab746_thispo_1-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/blog-fab746_thispo_1-960.webp"
-   },
-   {
-    "w": 1080,
-    "src": "/img/blog-fab746_thispo_1-1080.webp"
-   }
-  ]
- },
- "source-assets/blog/feac11_Immune-system_the_juicy_effect.jpg": {
-  "w": 895,
-  "h": 590,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/blog-feac11_immune-system_the_juicy_effect-480.webp"
-   },
-   {
-    "w": 895,
-    "src": "/img/blog-feac11_immune-system_the_juicy_effect-895.webp"
-   }
-  ]
- },
- "source-assets/blog/ffe951_DEEP_OCEAN_CLEANSE.png": {
-  "w": 265,
-  "h": 153,
-  "variants": [
-   {
-    "w": 265,
-    "src": "/img/blog-ffe951_deep_ocean_cleanse-265.webp"
-   }
-  ]
- },
- "source-assets/brand/08b76c_Untitled_design_(4).png": {
-  "w": 300,
-  "h": 300,
-  "variants": [
-   {
-    "w": 300,
-    "src": "/img/brand-08b76c_untitled_design_-4-300.webp"
-   }
-  ]
- },
- "source-assets/brand/7fd1e9_TheJuicyEffect_part_logo.png": {
-  "w": 2500,
-  "h": 2089,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/brand-7fd1e9_thejuicyeffect_part_logo-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/brand-7fd1e9_thejuicyeffect_part_logo-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/brand-7fd1e9_thejuicyeffect_part_logo-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/brand-7fd1e9_thejuicyeffect_part_logo-2200.webp"
-   }
-  ]
- },
- "source-assets/brand/favicon.ico": {
-  "w": 2500,
-  "h": 2219,
-  "variants": [
-   {
-    "w": 480,
-    "src": "/img/brand-favicon-480.webp"
-   },
-   {
-    "w": 960,
-    "src": "/img/brand-favicon-960.webp"
-   },
-   {
-    "w": 1600,
-    "src": "/img/brand-favicon-1600.webp"
-   },
-   {
-    "w": 2200,
-    "src": "/img/brand-favicon-2200.webp"
    }
   ]
  }

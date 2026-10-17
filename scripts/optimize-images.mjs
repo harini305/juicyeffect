@@ -10,7 +10,7 @@ const ROOT = process.cwd();
 const SRC = path.join(ROOT, 'source-assets');
 const OUT = path.join(ROOT, 'public', 'img');
 const MAP = path.join(ROOT, 'src', 'data', 'generated', 'images.json');
-const WIDTHS = [480, 960, 1600, 2200];
+const WIDTHS = [480, 960, 1600];
 const QUALITY = 80;
 
 fs.mkdirSync(OUT, { recursive: true });

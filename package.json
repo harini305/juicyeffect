@@ -8,7 +8,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "check-routes": "node scripts/check-routes.mjs"
+    "check-routes": "node scripts/check-routes.mjs",
+    "prune": "node scripts/prune-assets.mjs"
   },
   "dependencies": {
     "gsap": "^3.15.0",
